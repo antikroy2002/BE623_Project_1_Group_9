@@ -1,0 +1,3 @@
+>NM_002467.6 Homo sapiens MYC proto-oncogene, bHLH transcription factor (MYC), transcript variant 1, mRNA
+>NP_002458.2 myc proto-oncogene protein isoform 1 [Homo sapiens]
+LOCUS       NM_002467               3721 bp    mRNA    linear   PRI 14-NOV-2025
