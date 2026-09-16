@@ -1,0 +1,1236 @@
+Script started on 2026-09-16 15:31:41+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="26"]
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+[?2004h(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ history | less
+[?2004l[?1049h[22;0;0t[?1h=  177  bash -c question_1.sh 
+  178  vi question_1.sh 
+  179  ./question_1.sh 
+  180  vi question_1.sh 
+  181  chmod +x question_1.sh 
+  182  ./question_1.sh 
+  183  vi question_1.sh 
+  184  bash -c question_1.sh 
+  185  vi question_1.sh 
+  186  ./question_1.sh 
+  187  vi question_1.sh 
+  188  ./question_1.sh 
+  189  source question_1.sh 
+  190  ./question_1.sh 
+  191  vi question_1.sh 
+  192  ./question_1.sh 
+  193  vi question_1.sh 
+  194  ./question_1.sh 
+  195  vi question_1.sh 
+  196  ./question_1.sh 
+  197  vi question_1.sh 
+  198  ./question_1.sh 
+  199  vi question_1.sh 
+  200  ./question_1.sh 
+  201  vi question_1.sh 
+:[K[K [KESCESC[KOO[KBB[K  202  ./question_1.sh 
+:[K[K [KESCESC[KOO[KBB[K  203  vi question_1.sh 
+:[K[K [KESCESC[KOO[KBB[K  204  ./question_1.sh 
+:[K[K [KESCESC[KOO[KBB[K  205  vi question_1.sh 
+:[K[K [KESCESC[KOO[KBB[K  206  ./question_1.sh 
+:[K[K [KESCESC[KOO[KBB[K  207  vi question_1.sh 
+:[K[K [KESCESC[KOO[KBB[K  208  bash -c question_1.sh 
+:[K[K [KESCESC[KOO[KBB[K  209  vi question_1.sh 
+:[K[K [KESCESC[KOO[KBB[K  210  ./question_1.sh 
+:[K[K [KESCESC[KOO[KBB[K  211  vi question_1.sh 
+:[K[K [KESCESC[KOO[KBB[K  212  clear
+:[K[K [KESCESC[KOO[KBB[K  213  vi variable_counter.sh
+:[K[K [KESCESC[KOO[KBB[K  214  whoami
+:[K[K [KESCESC[KOO[KBB[K  215  vi variable_counter.sh
+:[K[K [KESCESC[KOO[KBB[K  216  ./variable_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  217  vi variable_counter.sh
+:[K[K [KESCESC[KOO[KBB[K  218  ./variable_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  219  bash variable_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  220  source variable_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  221  vi variable_counter.sh
+:[K[K [KESCESC[KOO[KBB[K  222  ./variable_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  223  vi variable_counter.sh
+:[K[K [KESCESC[KOO[KAA[K[HM  198  ./question_1.sh 
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM  197  vi question_1.sh 
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM  196  ./question_1.sh 
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM  195  vi question_1.sh 
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM  194  ./question_1.sh 
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM  193  vi question_1.sh 
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM  192  ./question_1.sh 
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM  191  vi question_1.sh 
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM  190  ./question_1.sh 
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM  189  source question_1.sh 
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM  188  ./question_1.sh 
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM  187  vi question_1.sh 
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM  186  ./question_1.sh 
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM  185  vi question_1.sh 
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM  184  bash -c question_1.sh 
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM  183  vi question_1.sh 
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM  182  ./question_1.sh 
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM  181  chmod +x question_1.sh 
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM  180  vi question_1.sh 
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM  179  ./question_1.sh 
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM  178  vi question_1.sh 
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM  177  bash -c question_1.sh 
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KBB[K  202  ./question_1.sh 
+:[K[K [KESCESC[KOO[KBB[K  203  vi question_1.sh 
+:[K[K [KESCESC[KOO[KBB[K  204  ./question_1.sh 
+:[K[K [KESCESC[KOO[KBB[K  205  vi question_1.sh 
+:[K[K [KESCESC[KOO[KBB[K  206  ./question_1.sh 
+:[K[K [KESCESC[KOO[KBB[K  207  vi question_1.sh 
+:[K[K [KESCESC[KOO[KBB[K  208  bash -c question_1.sh 
+:[K[K [KESCESC[KOO[KBB[K  209  vi question_1.sh 
+:[K[K [KESCESC[KOO[KBB[K  210  ./question_1.sh 
+:[K[K [KESCESC[KOO[KBB[K  211  vi question_1.sh 
+:[K[K [KESCESC[KOO[KBB[K  212  clear
+:[K[K [KESCESC[KOO[KBB[K  213  vi variable_counter.sh
+:[K[K [KESCESC[KOO[KBB[K  214  whoami
+:[K[K [KESCESC[KOO[KBB[K  215  vi variable_counter.sh
+:[K[K [KESCESC[KOO[KBB[K  216  ./variable_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  217  vi variable_counter.sh
+:[K[K [KESCESC[KOO[KBB[K  218  ./variable_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  219  bash variable_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  220  source variable_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  221  vi variable_counter.sh
+:[K[K [KESCESC[KOO[KBB[K  222  ./variable_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  223  vi variable_counter.sh
+:[K[K [KESCESC[KOO[KBB[K  224  ./variable_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  225  vi variable_counter.sh
+:[K[K [KESCESC[KOO[KBB[K  226  ./variable_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  227  vi variable_counter.sh
+:[K[K [KESCESC[KOO[KBB[K  228  ./variable_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  229  vi variable_counter.sh
+:[K[K [KESCESC[KOO[KBB[K  230  source variable_counter.sh
+:[K[K [KESCESC[KOO[KBB[K  231  chmod +x variable_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  232  clear
+:[K[K [KESCESC[KOO[KBB[K  233  vi variable_counter.sh
+:[K[K [KESCESC[KOO[KBB[K  234  ./variable_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  235  source variable_counter.sh
+:[K[K [KESCESC[KOO[KBB[K  236  clear
+:[K[K [KESCESC[KOO[KBB[K  237  whoami
+:[K[K [KESCESC[KOO[KBB[K  238  vi variable_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  239  ./variable_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  240  vi batch_counter.sh
+:[K[K [KESCESC[KOO[KBB[K  241  vi variable_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  242  vi batch_counter.sh
+:[K[K [KESCESC[KOO[KBB[K  243  cd ..
+:[K[K [KESCESC[KOO[KBB[K  244  cd mnt
+:[K[K [KESCESC[KOO[KBB[K  245  cd d
+:[K[K [KESCESC[KOO[KBB[K  246  cd Biocomputing/
+:[K[K [KESCESC[KOO[KBB[K  247  vi batch_counter.sh
+:[K[K [KESCESC[KOO[KBB[K  248  ./variable_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  249  vi batch_counter.sh
+:[K[K [KESCESC[KOO[KBB[K  250  vi variable_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  251  ls
+:[K[K [KESCESC[KOO[KBB[K  252  cat variable_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  253  vi variable_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  254  ./variable_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  255  vi variable_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  256  ./variable_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  257  vi variable_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  258  ./variable_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  259  clear
+:[K[K [KESCESC[KOO[KBB[K  260  ./variable_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  261  clear
+:[K[K [KESCESC[KOO[KBB[K  262  vi variable_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  263  ./variable_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  264  vi variable_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  265  ./variable_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  266  vi batch_counter.sh
+:[K[K [KESCESC[KOO[KBB[K  267  vi variable_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  268  vi batch_counter.sh
+:[K[K [KESCESC[KOO[KBB[K  269  cd ..
+:[K[K [KESCESC[KOO[KBB[K  270  cd mnt
+:[K[K [KESCESC[KOO[KBB[K  271  cd d
+:[K[K [KESCESC[KOO[KBB[K  272  cd Biocomputing/
+:[K[K [KESCESC[KOO[KBB[K  273  vi batch_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  274  ./batch_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  275  vi batch_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  276  ./batch_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  277  vi batch_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  278  ./batch_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  279  vi batch_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  280  ./batch_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  281  vi batch_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  282  ./batch_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  283  vi batch_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  284  ./batch_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  285  clear
+:[K[K [KESCESC[KOO[KBB[K  286  vi batch_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  287  ./batch_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  288  clear
+:[K[K [KESCESC[KOO[KBB[K  289  cd lab_session_2/
+:[K[K [KESCESC[KOO[KBB[K  290  vi batch_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  291  ls
+:[K[K [KESCESC[KOO[KBB[K  292  clear
+:[K[K [KESCESC[KOO[KBB[K  293  ls
+:[K[K [KESCESC[KOO[KBB[K  294  rm batch_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  295  ls
+:[K[K [KESCESC[KOO[KBB[K  296  clear
+:[K[K [KESCESC[KOO[KBB[K  297  cd..
+:[K[K [KESCESC[KOO[KBB[K  298  cd
+:[K[K [KESCESC[KOO[KBB[K  299  cd /mnt/d/Biocomputing/
+:[K[K [KESCESC[KOO[KBB[K  300  ls
+:[K[K [KESCESC[KOO[KBB[K  301  mv batch_counter.sh /mnt/d/Biocomputing
+:[K[K [KESCESC[KOO[KBB[K  302  mv batch_counter.sh /mnt/d/Biocomputing/
+:[K[K [KESCESC[KOO[KBB[K  303  mv batch_counter.sh /mnt/d/Biocomputing/lab_session_2/
+:[K[K [KESCESC[KOO[KBB[K  304  cd lab_session_2/
+:[K[K [KESCESC[KOO[KBB[K  305  ls
+:[K[K [KESCESC[KOO[KBB[K  306  vi batch_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  307  ./batch_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  308  clear
+:[K[K [KESCESC[KOO[KBB[K  309  vi batch_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  310  ./batch_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  311  vi conditional_reporter.sh
+:[K[K [KESCESC[KOO[KBB[K  312  ./conditional_reporter.sh 
+:[K[K [KESCESC[KOO[KBB[K  313  vi conditional_reporter.sh
+:[K[K [KESCESC[KOO[KBB[K  314  cd ..
+:[K[K [KESCESC[KOO[KBB[K  315  cd mnt
+:[K[K [KESCESC[KOO[KBB[K  316  cd d
+:[K[K [KESCESC[KOO[KBB[K  317  cd bio
+:[K[K [KESCESC[KOO[KBB[K  318  cd Biocomputing/
+:[K[K [KESCESC[KOO[KBB[K  319  cd lab_session_2/
+:[K[K [KESCESC[KOO[KBB[K  320  clear
+:[K[K [KESCESC[KOO[KBB[K  321  vi conditional_reporter.sh 
+:[K[K [KESCESC[KOO[KBB[K  322  ./conditional_reporter.sh 
+:[K[K [KESCESC[KOO[KBB[K  323  vi conditional_reporter.sh 
+:[K[K [KESCESC[KOO[KBB[K  324  ./conditional_reporter.sh 
+:[K[K [KESCESC[KOO[KBB[K  325  clear
+:[K[K [KESCESC[KOO[KBB[K  326  vi conditional_reporter.sh 
+:[K[K [KESCESC[KOO[KBB[K  327  ./conditional_reporter.sh 
+:[K[K [KESCESC[KOO[KBB[K  328  vi motif_finder.sh
+:[K[K [KESCESC[KOO[KBB[K  329  vi motif_hits.txt
+:[K[K [KESCESC[KOO[KBB[K  330  vi motif_finder.sh
+:[K[K [KESCESC[KOO[KBB[K  331  vi batch_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  332  clear
+:[K[K [KESCESC[KOO[KBB[K  333  vi motif_finder.sh
+:[K[K [KESCESC[KOO[KBB[K  334  vi batch_counter.sh ]
+:[K[K [KESCESC[KOO[KBB[K  335  clear
+:[K[K [KESCESC[KOO[KBB[K  336  vi batch_counter.sh
+:[K[K [KESCESC[KOO[KBB[K  337  vi motif_finder.sh
+:[K[K [KESCESC[KOO[KBB[K  338  nano text.txt
+:[K[K [KESCESC[KOO[KBB[K  339  vi motif_finder.sh
+:[K[K [KESCESC[KOO[KBB[K  340  ./motif_
+:[K[K [KESCESC[KOO[KBB[K  341  ./motif_finder.sh
+:[K[K [KESCESC[KOO[KBB[K  342  ls
+:[K[K [KESCESC[KOO[KBB[K  343  vi motif_finder.sh
+:[K[K [KESCESC[KOO[KBB[K  344  ./motif_finder.sh
+:[K[K [KESCESC[KOO[KBB[K  345  vi motif_finder.sh
+:[K[K [KESCESC[KOO[KBB[K  346  ./motif_finder.sh
+:[K[K [KESCESC[KOO[KBB[K  347  vi motif_finder.sh
+:[K[K [KESCESC[KOO[KBB[K  348  ./motif_finder.sh
+:[K[K [KESCESC[KOO[KBB[K  349  clear
+:[K[K [KESCESC[KOO[KBB[K  350  ./motif_finder.sh
+:[K[K [KESCESC[KOO[KBB[K  351  vi motif_finder.sh
+:[K[K [KESCESC[KOO[KBB[K  352  ./motif_finder.sh
+:[K[K [KESCESC[KOO[KBB[K  353  vi motif_hits.txt
+:[K[K [KESCESC[KOO[KBB[K  354  clear
+:[K[K [KESCESC[KOO[KBB[K  355  vi motif_finder.sh
+:[K[K [KESCESC[KOO[KBB[K  356  ./motif_finder.sh
+:[K[K [KESCESC[KOO[KBB[K  357  vi conditional_reporter.sh 
+:[K[K [KESCESC[KOO[KBB[K  358  ls
+:[K[K [KESCESC[KOO[KBB[K  359  clear
+:[K[K [KESCESC[KOO[KBB[K  360  vi variable_counter.sh
+:[K[K [KESCESC[KOO[KBB[K  361  ./variable_counter.sh
+:[K[K [KESCESC[KOO[KBB[K  362  vi variable_counter.sh
+:[K[K [KESCESC[KOO[KBB[K  363  ./variable_counter.sh
+:[K[K [KESCESC[KOO[KBB[K  364  vi variable_counter.sh
+:[K[K [KESCESC[KOO[KBB[K  365  ./variable_counter.sh
+:[K[K [KESCESC[KOO[KBB[K  366  clear
+:[K[K [KESCESC[KOO[KBB[K  367  vi batch_counter.sh 
+:[K[K [KESCESC[KOO[KBB[K  368  clear
+:[K[K [KESCESC[KOO[KBB[K  369  cd ..
+:[K[K [KESCESC[KOO[KBB[K  370  cd mnt
+:[K[K [KESCESC[KOO[KBB[K  371  cd d
+:[K[K [KESCESC[KOO[KBB[K  372  cd Biocomputing/
+:[K[K [KESCESC[KOO[KBB[K  373  cd lab_session_3
+:[K[K [KESCESC[KOO[KBB[K  374  ls
+:[K[K [KESCESC[KOO[KBB[K  375  clear
+:[K[K [KESCESC[KOO[KBB[K  376  ls
+:[K[K [KESCESC[KOO[KBB[K  377  sed --versio 
+:[K[K [KESCESC[KOO[KBB[K  378  sed --version
+:[K[K [KESCESC[KOO[KBB[K  379  awk --version
+:[K[K [KESCESC[KOO[KBB[K  380  clear
+:[K[K [KESCESC[KOO[KBB[K  381  sed version
+:[K[K [KESCESC[KOO[KBB[K  382  clear
+:[K[K [KESCESC[KOO[KBB[K  383  sed --version
+:[K[K [KESCESC[KOO[KBB[K  384  awk --version
+:[K[K [KESCESC[KOO[KBB[K  385  less sample.fasta
+:[K[K [KESCESC[KOO[KBB[K  386  less sample.pdb
+:[K[K [KESCESC[KOO[KBB[K  387  clear
+:[K[K [KESCESC[KOO[KBB[K  388  sed -n '/^>/p' sample.fasta
+:[K[K [KESCESC[KOO[KBB[K  389  sed -n '/^>/!p' sample.fasta
+:[K[K [KESCESC[KOO[KBB[K  390  sed '/^>/!s/T/U/g' sample.fasta
+:[K[K [KESCESC[KOO[KBB[K  391  sed '/^>/s/$/_lab3/' sample.fasta
+:[K[K [KESCESC[KOO[KBB[K  392  awk '/^>/{c++} END{print c}' sample.fasta
+:[K[K [KESCESC[KOO[KBB[K  393  awk '/^>/{if (seq) print name, length(seq); name=$0; seq=""; next} {seq=seq $0} END{print name, length(seq0}' sam :[K[K [KESCESC[KOO[KBB[Kple.fasta
+:[K[K [KESCESC[KOO[KBB[K  394  clear
+:[K[K [KESCESC[KOO[KBB[K  395  awk '/^>/{if (seq) print name, length(seq); name=$0; seq=""; next} {seq=seq $0} END{print name length(seq0}' samp :[K[K [KESCESC[KOO[KBB[Kle.fasta
+:[K[K [KESCESC[KOO[KBB[K  396  clear
+:[K[K [KESCESC[KOO[KBB[K  397  awk '/^>/{if (seq) print name, length(seq); name=$0; seq=""; next} {seq = seq $0} END{print name, length(seq)}' s :[K[K [KESCESC[KOO[KBB[Kample.fasta
+:[K[K [KESCESC[KOO[KBB[K  398  awk '/^>/{l=length($0); gc+=gsub(/[GCgc]/,""); total+=l} END{printf "%.2f%%\n", gc/total*100}' sample.fasta
+:[K[K [KESCESC[KOO[KBB[K  399  awk '$1=="ATOM"' sample.pdb | head
+:[K[K [KESCESC[KOO[KBB[K  400  sed -n '/^HETATM/p' sample.pdb | head
+:[K[K [KESCESC[KOO[KBB[K  401  sed '/^HETATM/d' sample.pdb > sample_no_het.pdb
+:[K[K [KESCESC[KOO[KBB[K  402  wc -l sample_no_het.pdb
+:[K[K [KESCESC[KOO[KBB[K  403  wc -l sample.pdb
+:[K[K [KESCESC[KOO[KBB[K  404  awk '$1=="ATOM"{print $7, $8, $9]' sample.pdb | head
+:[K[K [KESCESC[KOO[KBB[K  405  awk '$1=="ATOM"{print $7, $8, $9}' sample.pdb | head
+:[K[K [KESCESC[KOO[KBB[K  406  awk '{if ($1=="ATOM" && $4=="ALA") $4="GLY"; print}' sample.pdb > sample_mutated.pdb
+:[K[K [KESCESC[KOO[KBB[K  407  less sample.pdb
+:[K[K [KESCESC[KOO[KBB[K  408  cat sample.pdb
+:[K[K [KESCESC[KOO[KBB[K  409  awk '$1=="ATOM"{count[$]++} END{for r in count) print r, count[r]}' sample.pdb
+:[K[K [KESCESC[KOO[KBB[K  410  awk '$1=="ATOM"{count[$4]++} END{for r in count) print r, count[r]}' sample.pdb
+:[K[K [KESCESC[KOO[KBB[K  411  awk '$1=="ATOM"{count[$4]++} END{(for r in count) print r, count[r]}' sample.pdb
+:[K[K [KESCESC[KOO[KBB[K  412  awk '$1=="ATOM"{count[$4]++} END{for (r in count) print r, count[r]}' sample.pdb
+:[K[K [KESCESC[KOO[KBB[K  413  awk -k2 '$1=="ATOM"{count[$4]++} END{(for r in count) print r, count[r]}' sample.pdb
+:[K[K [KESCESC[KOO[KBB[K  414  awk -nr '$1=="ATOM"{count[$4]++} END{(for r in count) print r, count[r]}' sample.pdb
+:[K[K [KESCESC[KOO[KBB[K  415  clear
+:[K[K [KESCESC[KOO[KBB[K  416  git init
+:[K[K [KESCESC[KOO[KBB[K  417  git status
+:[K[K [KESCESC[KOO[KBB[K  418  git add sample.fasta sample.pdb
+:[K[K [KESCESC[KOO[KBB[K  419  git commit -m "Add initial fasta and pdb sample files"
+:[K[K [KESCESC[KOO[KBB[K  420  git log
+:[K[K [KESCESC[KOO[KBB[K  421  git commit -m "Add initial FASTA and PDB sample files"
+:[K[K [KESCESC[KOO[KBB[K  422  ssh -keygen -t ed25519 -C "antik.roy@iitgn.ac.in"
+:[K[K [KESCESC[KOO[KBB[K  423  ssh-keygen -t ed25519 -C "antik.roy@iitgn.ac.in"
+:[K[K [KESCESC[KOO[KBB[K  424  eval "$(ssh-agent -s)"
+:[K[K [KESCESC[KOO[KBB[K  425  ssh-add ~/.ssh/id_ed25519git config --global user.name "Antik_Roy"
+:[K[K [KESCESC[KOO[KBB[K  426  vi sample1.fasta
+:[K[K [KESCESC[KOO[KBB[K  427  awk '!/^>/{l=length($0); gc+=gsub(/[GCgc]/,""); total+=l} END{printf "%.2f%%\
+:[K[K [KESCESC[KOO[KBB[K  428  n", gc/total*100}' sample1.fasta
+:[K[K [KESCESC[KOO[KBB[K  429  awk '!/^>/{l=length($0); gc+=gsub(/[GCgc]/,""); total+=l} END{printf "%.2f%%\
+:[K[K [KESCESC[KOO[KBB[K  430  n", gc}' sample1.fasta
+:[K[K [KESCESC[KOO[KBB[K  431  awk '!/^>/{l=length($0); gc+=gsub(/[GCgc]/,""); total+=l} END{printf gc}' sample1.fasta
+:[K[K [KESCESC[KOO[KBB[K  432  vi sample1.fasta 
+:[K[K [KESCESC[KOO[KBB[K  433  awk '!/^>/{l=length($0); gc+=gsub(/[GCgc]/,""); total+=l} END{printf gc}' sample1.fasta
+:[K[K [KESCESC[KOO[KBB[K  434  clear
+:[K[K [KESCESC[KOO[KBB[K  435  vi sample1.fasta 
+:[K[K [KESCESC[KOO[KBB[K  436  awk '!/^>/{l=length($0); gc+=gsub(/[GCgc]/,""); total+=l} END{printf gc}' sample1.fasta
+:[K[K [KESCESC[KOO[KBB[K  437  awk '!/^>/{len=length($0); total+=len} END{print total)'
+:[K[K [KESCESC[KOO[KBB[K  438  awk '!/^>/{len=length($0); total+=len} END{(print total)}' sample1.fasta
+:[K[K [KESCESC[KOO[KBB[K  439  awk '!/^>/{len=length($0); total+=len} END(print total)' sample1.fasta
+:[K[K [KESCESC[KOO[KBB[K  440  awk '!/^>/{len=length($0); total+=len} END(printf total)' sample1.fasta
+:[K[K [KESCESC[KOO[KBB[K  441  awk '!/^>/{len=length($0); total+=len} END{printf total]' sample1.fasta
+:[K[K [KESCESC[KOO[KBB[K  442  awk '!/^>/{len=length($0); total+=len} END{printf total}' sample1.fasta
+:[K[K [KESCESC[KOO[KBB[K  443  clear
+:[K[K [KESCESC[KOO[KBB[K  444  cd ..
+:[K[K [KESCESC[KOO[KBB[K  445  cd mnt
+:[K[K [KESCESC[KOO[KBB[K  446  cd Bio
+:[K[K [KESCESC[KOO[KBB[K  447  cd d
+:[K[K [KESCESC[KOO[KBB[K  448  cd Biocomputing/
+:[K[K [KESCESC[KOO[KBB[K  449  cd lab_session_3
+:[K[K [KESCESC[KOO[KBB[K  450  sed -n '/^>/!p' sample.fasta
+:[K[K [KESCESC[KOO[KBB[K  451  sed -n '/^>seq/p' sample.fasta | wc -l
+:[K[K [KESCESC[KOO[KBB[K  452  sed -n '/^>seq/p' sample.fasta
+:[K[K [KESCESC[KOO[KBB[K  453  sed -n '/^>seq/p' sample.fasta | wc -l
+:[K[K [KESCESC[KOO[KBB[K  454  clear
+:[K[K [KESCESC[KOO[KBB[K  455  sed -n '/^>seq/p' sample.fasta
+:[K[K [KESCESC[KOO[KBB[K  456  sed -n '/^>seq/p' sample.fasta | wc -l
+:[K[K [KESCESC[KOO[KBB[K  457  cp sample.fasta sample_rna.fasta
+:[K[K [KESCESC[KOO[KBB[K  458  sed -i '/^>/!s/T/U/g' sample_rna.fasta 
+:[K[K [KESCESC[KOO[KBB[K  459  sample_rna.fasta
+:[K[K [KESCESC[KOO[KBB[K  460  cat sample_rna.fasta
+:[K[K [KESCESC[KOO[KBB[K  461  clear
+:[K[K [KESCESC[KOO[KBB[K  462  cp sample.fasta sample_rna.fasta
+:[K[K [KESCESC[KOO[KBB[K  463  sed -i '/^>/!s/T/U/g' sample_rna.fasta 
+:[K[K [KESCESC[KOO[KBB[K  464  cat sample_rna.fasta
+:[K[K [KESCESC[KOO[KBB[K  465  cp sample_rna.fasta sample_dna.fasta
+:[K[K [KESCESC[KOO[KBB[K  466  sed -i '/^>/!s/U/T/g' sample_dna.fasta 
+:[K[K [KESCESC[KOO[KBB[K  467  cat sample_dna.fasta
+:[K[K [KESCESC[KOO[KBB[K  468  clear
+:[K[K [KESCESC[KOO[KBB[K  469  sed '/^>/s/^/LAB4_/' sample.fasta
+:[K[K [KESCESC[KOO[KBB[K  470  clear
+:[K[K [KESCESC[KOO[KBB[K  471  sed '/^>/s/^/_LAB4/' sample.fasta
+:[K[K [KESCESC[KOO[KBB[K  472  clear
+:[K[K [KESCESC[KOO[KBB[K  473  sed '/^>/s/^/LAB4_/' sample.fasta
+:[K[K [KESCESC[KOO[KBB[K  474  clear
+:[K[K [KESCESC[KOO[KBB[K  475  awk '!/^>/ {count++} END{print count+0}' sample.fasta
+:[K[K [KESCESC[KOO[KBB[K  476  awk '!/^>/ && NF {count++} END{print count+0}' sample.fasta
+:[K[K [KESCESC[KOO[KBB[K  477  clear
+:[K[K [KESCESC[KOO[KBB[K  478  awk '!/^>/ && NF {count++} END{print count+0}' sample.fasta
+:[K[K [KESCESC[KOO[KBB[K  479  awk '/^>/{if (seq) {if (length(seq)>max) max=length(seq)}; seq=""; next} {seq=seq$0} END if (length(seq)>max) max :[K[K [KESCESC[KOO[KBB[K=length(seq); print max+0}' sample.fasta
+:[K[K [KESCESC[KOO[KBB[K  480  awk '/^>/{if (seq) {if (length(seq)>max) max=length(seq)}; seq=""; next} {seq=seq$0} END ( if length(seq)>max) ma :[K[K [KESCESC[KOO[KBB[Kx=length(seq); print max+0}' sample.fasta
+:[K[K [KESCESC[KOO[KBB[K  481  awk '/^>/{if (seq) {if (length(seq)>max) max=length(seq)}; seq=""; next} {seq=seq$0} END {if length(seq)>max) max :[K[K [KESCESC[KOO[KBB[K=length(seq); print max+0}' sample.fasta
+:[K[K [KESCESC[KOO[KBB[K  482  clear
+:[K[K [KESCESC[KOO[KBB[K  483  awk '/^>/{if (seq) {if (length(seq)>max) max=length(seq)}; seq=""; next} {seq=seq$0} END {if length(seq)>max) max :[K[K [KESCESC[KOO[KBB[K=length(seq); print max+0}' sample.fasta
+:[K[K [KESCESC[KOO[KBB[K  484  awk '/^>/{if (seq) {if (length(seq)>max) max=length(seq)}; seq=seq$0; next} {seq=seq$0} END if {length(seq)>max)  :[K[K [KESCESC[KOO[KBB[Kmax=length(seq); print max+0}' sample.fasta
+:[K[K [KESCESC[KOO[KBB[K  485  clear
+:[K[K [KESCESC[KOO[KBB[K  486  cd ..
+:[K[K [KESCESC[KOO[KBB[K  487  cd mnt
+:[K[K [KESCESC[KOO[KBB[K  488  cd 
+:[K[K [KESCESC[KOO[KBB[K  489  cd d
+:[K[K [KESCESC[KOO[KBB[K  490  cd ..
+:[K[K [KESCESC[KOO[KBB[K  491  cd mnt
+:[K[K [KESCESC[KOO[KBB[K  492  cd d
+:[K[K [KESCESC[KOO[KBB[K  493  cd Biocomputing/
+:[K[K [KESCESC[KOO[KBB[K  494  cd lab_session_3
+:[K[K [KESCESC[KOO[KBB[K  495  clear
+:[K[K [KESCESC[KOO[KBB[K  496  awk '/^>/ {if (seq) {if (length(seq)>max) max=length(seq)};seq=""; next} {seq=seq$0} END {if (length(seq)>max) ma :[K[K [KESCESC[KOO[KBB[Kx=length(seq); print max+0}' sample.fasta
+:[K[K [KESCESC[KOO[KBB[K  497  cd ..
+:[K[K [KESCESC[KOO[KBB[K  498  cd .
+:[K[K [KESCESC[KOO[KBB[K  499  cd ..
+:[K[K [KESCESC[KOO[KBB[K  500  cd mnt
+:[K[K [KESCESC[KOO[KBB[K  501  cd d
+:[K[K [KESCESC[KOO[KBB[K  502  cd Biocomputing/
+:[K[K [KESCESC[KOO[KBB[K  503  cd lab_session_3
+:[K[K [KESCESC[KOO[KBB[K  504  clear
+:[K[K [KESCESC[KOO[KBB[K  505  awk '/^>/ {if (seq!="" && length(seq)<50) print header; header=$0; seq=""; next} {seq=seq$0} END {if seq!="" && l :[K[K [KESCESC[KOO[KBB[Kength(seq)<50) print header}' sample.fasta
+:[K[K [KESCESC[KOO[KBB[K  506  awk '/^>/ {if (seq!="" && length(seq)<50) print header; header=$0; seq=""; next} {seq=seq$0} END {if (seq!="" &&  :[K[K [KESCESC[KOO[KBB[Klength(seq)<50) print header}' sample.fasta
+:[K[K [KESCESC[KOO[KBB[K  507  clear
+:[K[K [KESCESC[KOO[KBB[K  508  awk '/^>/ {if (seq!="" && length(seq)<50) print header; header=$0; seq=""; next} {seq=seq$0} END {if (seq!="" &&  :[K[K [KESCESC[KOO[KBB[Klength(seq)<50) print header}' sample.fasta
+:[K[K [KESCESC[KOO[KBB[K  509  clear
+:[K[K [KESCESC[KOO[KBB[K  510  awk '!/^>/{l=length($0); at+=gsub(/[ATat]/,""); total+=l} END{printf "%.2f%%\n", gc/total*100}' sample.fasta
+:[K[K [KESCESC[KOO[KBB[K  511  awk '!/^>/{l=length($0); at+=gsub(/[ATat]/,""); total+=l} END{printf "%.2f%%\n", at/total*100}' sample.fasta
+:[K[K [KESCESC[KOO[KBB[K  512  clear
+:[K[K [KESCESC[KOO[KBB[K  513  awk '!/^>/{l=length($0); at+=gsub(/[ATat]/,""); total+=l} END{printf "%.2f%%\n", at/total*100}' sample.fasta
+:[K[K [KESCESC[KOO[KBB[K  514  clear
+:[K[K [KESCESC[KOO[KBB[K  515  awk '$1=="ATOM" && $4=="GLY"' sample.pdb> gly_only.pdb
+:[K[K [KESCESC[KOO[KBB[K  516  cat gly_only.pdb
+:[K[K [KESCESC[KOO[KBB[K  517  clear
+:[K[K [KESCESC[KOO[KBB[K  518  awk '$1=="ATOM" && $4=="GLY"' sample.pdb> gly_only.pdb
+:[K[K [KESCESC[KOO[KBB[K  519  less gly_only.pdb 
+:[K[K [KESCESC[KOO[KBB[K  520  cd ..
+:[K[K [KESCESC[KOO[KBB[K  521  cd mnt
+:[K[K [KESCESC[KOO[KBB[K  522  cd Bio
+:[K[K [KESCESC[KOO[KBB[K  523  cd d
+:[K[K [KESCESC[KOO[KBB[K  524  cd Biocomputing/
+:[K[K [KESCESC[KOO[KBB[K  525  cd lab_session_3
+:[K[K [KESCESC[KOO[KBB[K  526  clear
+:[K[K [KESCESC[KOO[KBB[K  527  awk "$1=="ATOM" && "$4==GLY"' sample.pdb> gly_only.pdb
+:[K[K [KESCESC[KOO[KBB[K  528  clear
+:[K[K [KESCESC[KOO[KBB[K  529  cd ..
+:[K[K [KESCESC[KOO[KBB[K  530  cd mnt
+:[K[K [KESCESC[KOO[KBB[K  531  cd d
+:[K[K [KESCESC[KOO[KBB[K  532  cd Biocomputing/
+:[K[K [KESCESC[KOO[KBB[K  533  cd lab_session_3
+:[K[K [KESCESC[KOO[KBB[K  534  clear
+:[K[K [KESCESC[KOO[KBB[K  535  awk "$1=="ATOM" && "$4==GLY"' sample.pdb> gly_only.pdb
+:[K[K [KESCESC[KOO[KBB[K  536  exit
+:[K[K [KESCESC[KOO[KBB[K  537  :clear
+:[K[K [KESCESC[KOO[KBB[K  538  clear
+:[K[K [KESCESC[KOO[KBB[K  539  awk "$1=="ATOM" && "$4==GLY"' sample.pdb> gly_only.pdb
+:[K[K [KESCESC[KOO[KBB[K  540  clear
+:[K[K [KESCESC[KOO[KBB[K  541  rm gly_only.pdb 
+:[K[K [KESCESC[KOO[KBB[K  542  clear
+:[K[K [KESCESC[KOO[KBB[K  543  awk "$1=="ATOM" && "$4=="GLY"' sample.pdb> gly_only.pdb
+:[K[K [KESCESC[KOO[KBB[K  544  clear
+:[K[K [KESCESC[KOO[KBB[K  545  sed -e '/^ATOM/b' -e '/^HETATM/b' -e 'd' sample.pdb>sample_records_only.pdb
+:[K[K [KESCESC[KOO[KBB[K  546  less sample_records_only.pdb 
+:[K[K [KESCESC[KOO[KBB[K  547  clear
+:[K[K [KESCESC[KOO[KBB[K  548  sed '/^HETATM/d' sample.pdb | awk '$1=="ATOM" {count++} END {print count+0}' sample.pdb
+:[K[K [KESCESC[KOO[KBB[K  549  clear
+:[K[K [KESCESC[KOO[KBB[K  550  awk '$1=="ATOM" && $3=="CA" {print $2, $3, $4}' sample.pdb> ca_summary.txt
+:[K[K [KESCESC[KOO[KBB[K  551  awk '{if ($4=="SER") $4=="ALA"; else if ($4=="HIS") $4="HSE"; print}' sample.pdb> sample_double_mutant.pdb
+:[K[K [KESCESC[KOO[KBB[K  552  clear
+:[K[K [KESCESC[KOO[KBB[K  553  awk '{if ($4=="SER") $4=="ALA"; else if ($4=="HIS") $4="HSE"; print}' sample.pdb> sample_double_mutant.pdb
+:[K[K [KESCESC[KOO[KBB[K  554  clear
+:[K[K [KESCESC[KOO[KBB[K  555  awk '$1=="ATOM" && ($3=="N" || $3=="CA" || $3=="C" || $3=="O") count[$4]++} END {for (res in count) print res:cou :[K[K [KESCESC[KOO[KBB[Knt[res]}' sample.pdb | sort -nr
+:[K[K [KESCESC[KOO[KBB[K  556  clear
+:[K[K [KESCESC[KOO[KBB[K  557  awk '$1=="ATOM" && ($3=="N" || $3=="CA" || $3=="C" || $3=="O") {count[$4]++} END {for (res in count) print res:co :[K[K [KESCESC[KOO[KBB[Kunt[res]}' sample.pdb | sort -nr
+:[K[K [KESCESC[KOO[KBB[K  558  clear
+:[K[K [KESCESC[KOO[KBB[K  559  awk '$1=="ATOM" && ($3=="N" || $3=="CA" || $3=="C" || $3=="O") {count[$4]++} END {for (res in count) print res,co :[K[K [KESCESC[KOO[KBB[Kunt[res]}' sample.pdb | sort -nr
+:[K[K [KESCESC[KOO[KBB[K  560  awk '$1=="ATOM" && ($3=="N" || $3=="CA" || $3=="C" || $3=="O") {count[$4]++} END {for (res in count) print res,co :[K[K [KESCESC[KOO[KBB[Kunt[res]}' sample.pdb | sort -r
+:[K[K [KESCESC[KOO[KBB[K  561  awk '$1=="ATOM" && ($3=="N" || $3=="CA" || $3=="C" || $3=="O") {count[$4]++} END {for (res in count) print res,co :[K[K [KESCESC[KOO[KBB[Kunt[res]}' sample.pdb | sort -n
+:[K[K [KESCESC[KOO[KBB[K  562  clear
+:[K[K [KESCESC[KOO[KBB[K  563  awk '$1=="ATOM" && ($3=="N" || $3=="CA" || $3=="C" || $3=="O") {count[$4]++} END {for (res in count) print res,co :[K[K [KESCESC[KOO[KBB[Kunt[res]}' sample.pdb | sort -nr
+:[K[K [KESCESC[KOO[KBB[K  564  awk '$1=="ATOM" && ($3=="N"||$3=="CA"||$3=="C"||$3=="O") {count[$4]++} END {for (res in count) print res,count[re :[K[K [KESCESC[KOO[KBB[Ks]}' sample.pdb | sort -nr
+:[K[K [KESCESC[KOO[KBB[K  565  clear
+:[K[K [KESCESC[KOO[KBB[K  566  awk '$1=="ATOM" && ($3=="N"||$3=="CA"||$3=="C"||$3=="O") {count[$4]++} END {for (res in count) count[res], res}'  :[K[K [KESCESC[KOO[KBB[Ksample.pdb | sort -nr
+:[K[K [KESCESC[KOO[KBB[K  567  awk '$1=="ATOM" && ($3=="N"||$3=="CA"||$3=="C"||$3=="O") {count[$4]++} END {for (res in count) print count[res],  :[K[K [KESCESC[KOO[KBB[Kres}' sample.pdb | sort -nr
+:[K[K [KESCESC[KOO[KBB[K  568  clea
+:[K[K [KESCESC[KOO[KBB[K  569  clear
+:[K[K [KESCESC[KOO[KBB[K  570  awk '$1=="ATOM" && ($3=="N"||$3=="CA"||$3=="C"||$3=="O") {count[$4]++} END {for (res in count) print count[res],  :[K[K [KESCESC[KOO[KBB[Kres}' sample.pdb | sort -nr
+:[K[K [KESCESC[KOO[KBB[K  571  clear
+:[K[K [KESCESC[KOO[KBB[K  572  sedm'/^HETATM/d' sample.pdb | awk '$1=="ATOM" && $3=="CA" {print $4, $7, $8, $9}'
+:[K[K [KESCESC[KOO[KBB[K  573  sed '/^HETATM/d' sample.pdb | awk '$1=="ATOM" && $3=="CA" {print $4, $7, $8, $9}'
+:[K[K [KESCESC[KOO[KBB[K  574  clear
+:[K[K [KESCESC[KOO[KBB[K  575  sed '/^HETATM/d' sample.pdb | awk '$1=="ATOM" && $3=="CA" {print $4, $7, $8, $9}'
+:[K[K [KESCESC[KOO[KBB[K  576  clear
+:[K[K [KESCESC[KOO[KBB[K  577  awk '$1=="ATOM" && $4=="GLY"' sample.pdb > gly_only.pdb
+:[K[K [KESCESC[KOO[KBB[K  578  less gly_only.pdb 
+:[K[K [KESCESC[KOO[KBB[K  579  awk '$1=="ATOM" && $3=="CA" {x+=$7; y=+=$8; z+=$9; count++} END {if (count>0) printf "Center of mass(CA): X=%.3f, :[K[K [KESCESC[KOO[KBB[K Y=%.3f, Z=%.3f \n", x/count, y/count, z/count}' sample.pdb
+:[K[K [KESCESC[KOO[KBB[K  580  awk '$1=="ATOM" && $3=="CA" {x+=$7; y=+$8; z+=$9; count++} END {if (count>0) printf "Center of mass(CA): X=%.3f,  :[K[K [KESCESC[KOO[KBB[KY=%.3f, Z=%.3f \n", x/count, y/count, z/count}' sample.pdb
+:[K[K [KESCESC[KOO[KBB[K  581  clear
+:[K[K [KESCESC[KOO[KBB[K  582  awk '$1=="ATOM" && $3=="CA" {x+=$7; y=+$8; z+=$9; count++} END {if (count>0) printf "Center of mass(CA): X=%.3f,  :[K[K [KESCESC[KOO[KBB[KY=%.3f, Z=%.3f \n", x/count, y/count, z/count}' sample.pdb
+:[K[K [KESCESC[KOO[KBB[K  583  cd ..
+:[K[K [KESCESC[KOO[KBB[K  584  cd mnt
+:[K[K [KESCESC[KOO[KBB[K  585  cd d
+:[K[K [KESCESC[KOO[KBB[K  586  cd Biocomputing/
+:[K[K [KESCESC[KOO[KBB[K  587  mkdir lab_session_4
+:[K[K [KESCESC[KOO[KBB[K  588  ls
+:[K[K [KESCESC[KOO[KBB[K  589  cd lab_session_4
+:[K[K [KESCESC[KOO[KBB[K  590  clear
+:[K[K [KESCESC[KOO[KBB[K  591  git --version
+:[K[K [KESCESC[KOO[KBB[K  592  jupyter --version 
+:[K[K [KESCESC[KOO[KBB[K  593  sudo apt install jupyter-core
+:[K[K [KESCESC[KOO[KBB[K  594  clear
+:[K[K [KESCESC[KOO[KBB[K  595  https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?
+:[K[K [KESCESC[KOO[KBB[K  596  db=nucleotide&term=HBB[gene]+AND+human[orgn]
+:[K[K [KESCESC[KOO[KBB[K  597  clear
+:[K[K [KESCESC[KOO[KBB[K  598  git --version
+:[K[K [KESCESC[KOO[KBB[K  599  git --jupyter
+:[K[K [KESCESC[KOO[KBB[K  600  clear
+:[K[K [KESCESC[KOO[KBB[K  601  git --version
+:[K[K [KESCESC[KOO[KBB[K  602  jupyter --version 
+:[K[K [KESCESC[KOO[KBB[K  603  sudo apt install jupyter-core
+:[K[K [KESCESC[KOO[KBB[K  604  git init
+:[K[K [KESCESC[KOO[KBB[K  605  ls
+:[K[K [KESCESC[KOO[KBB[K  606  clear
+:[K[K [KESCESC[KOO[KBB[K  607  ls
+:[K[K [KESCESC[KOO[KBB[K  608  git init
+:[K[K [KESCESC[KOO[KBB[K  609  ls
+:[K[K [KESCESC[KOO[KBB[K  610  ls -al
+:[K[K [KESCESC[KOO[KBB[K  611  git status
+:[K[K [KESCESC[KOO[KBB[K  612  git add README.md notes.txt
+:[K[K [KESCESC[KOO[KBB[K  613  echo "Notes for today class" > notes.txt
+:[K[K [KESCESC[KOO[KBB[K  614  echo "BE^@# lab 4" > README.md
+:[K[K [KESCESC[KOO[KBB[K  615  git add README.md notes.txt
+:[K[K [KESCESC[KOO[KBB[K  616  git commit -m "Intial commit: add README and notes"
+:[K[K [KESCESC[KOO[KBB[K  617  git config --global user.email "antik.roy200@gmail.com"
+:[K[K [KESCESC[KOO[KBB[K  618  git config --global user.name "antik_roy"
+:[K[K [KESCESC[KOO[KBB[K  619  git commit -m "Intial commit: add README and notes"
+:[K[K [KESCESC[KOO[KBB[K  620  git config --global user.email "antik.roy2002@gmail.com"
+:[K[K [KESCESC[KOO[KBB[K  621  git config --global user.name "antik_roy"
+:[K[K [KESCESC[KOO[KBB[K  622  git commit -m "Intial commit: add README and notes"
+:[K[K [KESCESC[KOO[KBB[K  623  git add README.md notes.txt
+:[K[K [KESCESC[KOO[KBB[K  624  git commit -m "Intial commit: add README and notes"
+:[K[K [KESCESC[KOO[KBB[K  625  git add README.md notes.txt
+:[K[K [KESCESC[KOO[KBB[K  626  clear
+:[K[K [KESCESC[KOO[KBB[K  627  git commit -m "Intial commit: add README and notes"
+:[K[K [KESCESC[KOO[KBB[K  628  clear
+:[K[K [KESCESC[KOO[KBB[K  629  git commit -m "Intial commit: add README and notes"
+:[K[K [KESCESC[KOO[KBB[K  630  clea
+:[K[K [KESCESC[KOO[KBB[K  631  clear
+:[K[K [KESCESC[KOO[KBB[K  632  git add README.md notes.txt
+:[K[K [KESCESC[KOO[KBB[K  633  git config user.email "antik.roy2002@gmail.com"
+:[K[K [KESCESC[KOO[KBB[K  634  git config user.name "antikroy2002"
+:[K[K [KESCESC[KOO[KBB[K  635  git commit -m "Initial commit: add README and notes"
+:[K[K [KESCESC[KOO[KBB[K  636  \git add BE623_Lab_Session_4_manual.pdf Git_GitHub_Quickstart.pdf 
+:[K[K [KESCESC[KOO[KBB[K  637  git commit -m "Initial commit: add README and notes"
+:[K[K [KESCESC[KOO[KBB[K  638  git add README.md
+:[K[K [KESCESC[KOO[KBB[K  639  git commit -m README.md
+:[K[K [KESCESC[KOO[KBB[K  640  clear
+:[K[K [KESCESC[KOO[KBB[K  641  git init
+:[K[K [KESCESC[KOO[KBB[K  642  git status
+:[K[K [KESCESC[KOO[KBB[K  643  git add BE623_Lab_Session_4_manual.pdf Git_GitHub_Quickstart.pdf README.md notes.txt 
+:[K[K [KESCESC[KOO[KBB[K  644  git commit -m "Initial commit: README and notes files added"
+:[K[K [KESCESC[KOO[KBB[K  645  git log
+:[K[K [KESCESC[KOO[KBB[K  646  echo "Second line of notes." >> notes.txt
+:[K[K [KESCESC[KOO[KBB[K  647  git add notes.txt
+:[K[K [KESCESC[KOO[KBB[K  648  git commit -m "Add a second line to notes"
+:[K[K [KESCESC[KOO[KBB[K  649  git log --oneline
+:[K[K [KESCESC[KOO[KBB[K  650  touch scratch.log
+:[K[K [KESCESC[KOO[KBB[K  651  echo "scratch.log" > .gitignore
+:[K[K [KESCESC[KOO[KBB[K  652  git add .gitignore
+:[K[K [KESCESC[KOO[KBB[K  653  git commit -m "Add gitignore for scratch files"
+:[K[K [KESCESC[KOO[KBB[K  654  git status
+:[K[K [KESCESC[KOO[KBB[K  655  cd ..
+:[K[K [KESCESC[KOO[KBB[K  656  cd mnt
+:[K[K [KESCESC[KOO[KBB[K  657  cd d
+:[K[K [KESCESC[KOO[KBB[K  658  cd Biocomputing/
+:[K[K [KESCESC[KOO[KBB[K  659  cd lab_session_4
+:[K[K [KESCESC[KOO[KBB[K  660  clear
+:[K[K [KESCESC[KOO[KBB[K  661  mkdir assignment2_git 
+:[K[K [KESCESC[KOO[KBB[K  662  cd assignment2_git
+:[K[K [KESCESC[KOO[KBB[K  663  git init
+:[K[K [KESCESC[KOO[KBB[K  664  touch file_1.txt
+:[K[K [KESCESC[KOO[KBB[K  665  git add file_1.txt
+:[K[K [KESCESC[KOO[KBB[K  666  git commit -m "Add file_1.txt"
+:[K[K [KESCESC[KOO[KBB[K  667  touch file_2.txt
+:[K[K [KESCESC[KOO[KBB[K  668  git add file_2.txt 
+:[K[K [KESCESC[KOO[KBB[K  669  git commit -m "Add file_2.txt"
+:[K[K [KESCESC[KOO[KBB[K  670  touch file_3.txt
+:[K[K [KESCESC[KOO[KBB[K  671  git add file_3.txt 
+:[K[K [KESCESC[KOO[KBB[K  672  git commit -m "Add file_3.txt"
+:[K[K [KESCESC[KOO[KBB[K  673  ls
+:[K[K [KESCESC[KOO[KBB[K  674  git@github.com:antikroy2002/BIOCOMPUTING_LAB.git
+:[K[K [KESCESC[KOO[KBB[K  675  c;e
+:[K[K [KESCESC[KOO[KBB[K  676  clear
+:[K[K [KESCESC[KOO[KBB[K  677  ls
+:[K[K [KESCESC[KOO[KBB[K  678  git add README.MD
+:[K[K [KESCESC[KOO[KBB[K  679  git add README.md
+:[K[K [KESCESC[KOO[KBB[K  680  git init
+:[K[K [KESCESC[KOO[KBB[K  681  git add README.md
+:[K[K [KESCESC[KOO[KBB[K  682  ls
+:[K[K [KESCESC[KOO[KBB[K  683  git remote add origin git@github.com:antikroy2002/BIOCOMPUTING_LAB.git
+:[K[K [KESCESC[KOO[KBB[K  684  ls
+:[K[K [KESCESC[KOO[KBB[K  685  git add README.md
+:[K[K [KESCESC[KOO[KBB[K  686  git push file_1.txt
+:[K[K [KESCESC[KOO[KBB[K  687  git --version
+:[K[K [KESCESC[KOO[KBB[K  688  clear
+:[K[K [KESCESC[KOO[KBB[K  689  git init
+:[K[K [KESCESC[KOO[KBB[K  690  git status
+:[K[K [KESCESC[KOO[KBB[K  691  git add README.md
+:[K[K [KESCESC[KOO[KBB[K  692  .s
+:[K[K [KESCESC[KOO[KBB[K  693  ls
+:[K[K [KESCESC[KOO[KBB[K  694  git add file_1.txt
+:[K[K [KESCESC[KOO[KBB[K  695  clear
+:[K[K [KESCESC[KOO[KBB[K  696  git remote add origin https://github.com/antikroy2002/BIOCOMPUTING_LAB
+:[K[K [KESCESC[KOO[KBB[K  697  git branch -M main
+:[K[K [KESCESC[KOO[KBB[K  698  git push -u origin main
+:[K[K [KESCESC[KOO[KBB[K  699  touch file_1.txt
+:[K[K [KESCESC[KOO[KBB[K  700  git add file_1.txt
+:[K[K [KESCESC[KOO[KBB[K  701  git commit -m "Add file_1.txt"
+:[K[K [KESCESC[KOO[KBB[K  702  git log
+:[K[K [KESCESC[KOO[KBB[K  703  clear
+:[K[K [KESCESC[KOO[KBB[K  704  git remote add origin https://github.com/antikroy2002/BIOCOMPUTING_LAB
+:[K[K [KESCESC[KOO[KBB[K  705  git pull
+:[K[K [KESCESC[KOO[KBB[K  706  clear
+:[K[K [KESCESC[KOO[KBB[K  707  git remote add origin https://github.com/antikroy2002/BIOCOMPUTING_LAB
+:[K[K [KESCESC[KOO[KBB[K  708  git branch -M main
+:[K[K [KESCESC[KOO[KBB[K  709  git push -u origin main
+:[K[K [KESCESC[KOO[KBB[K  710  pwd
+:[K[K [KESCESC[KOO[KBB[K  711  ls -a
+:[K[K [KESCESC[KOO[KBB[K  712  git log
+:[K[K [KESCESC[KOO[KBB[K  713  clear
+:[K[K [KESCESC[KOO[KBB[K  714  mkdir assignment2_git
+:[K[K [KESCESC[KOO[KBB[K  715  cd assignment2_git/
+:[K[K [KESCESC[KOO[KBB[K  716  clear
+:[K[K [KESCESC[KOO[KBB[K  717  cd ..
+:[K[K [KESCESC[KOO[KBB[K  718  touch file_1.txt
+:[K[K [KESCESC[KOO[KBB[K  719  git push origin main 
+:[K[K [KESCESC[KOO[KBB[K  720  clear
+:[K[K [KESCESC[KOO[KBB[K  721  git log --oneline | grep "Add" | wc -l
+:[K[K [KESCESC[KOO[KBB[K  722  git commit --amend -m "Add third file file_3.txt"
+:[K[K [KESCESC[KOO[KBB[K  723  git remote add origin https://github.com/antikroy2002/BE623_lab_session_4
+:[K[K [KESCESC[KOO[KBB[K  724  git remote rm origin
+:[K[K [KESCESC[KOO[KBB[K  725  git remote add origin https://github.com/antikroy2002/BE623_lab_session_4
+:[K[K [KESCESC[KOO[KBB[K  726  git branch -M main
+:[K[K [KESCESC[KOO[KBB[K  727  git push -u origin
+:[K[K [KESCESC[KOO[KBB[K  728  push.autoSetupRemote
+:[K[K [KESCESC[KOO[KBB[K  729  git push --set-upstream origin main
+:[K[K [KESCESC[KOO[KBB[K  730  cd ..
+:[K[K [KESCESC[KOO[KBB[K  731  cd mnt
+:[K[K [KESCESC[KOO[KBB[K  732  cd d
+:[K[K [KESCESC[KOO[KBB[K  733  cd Biocomputing/
+:[K[K [KESCESC[KOO[KBB[K  734  cd lab_session_4
+:[K[K [KESCESC[KOO[KBB[K  735  cd lab_assignment2
+:[K[K [KESCESC[KOO[KBB[K  736  ls
+:[K[K [KESCESC[KOO[KBB[K  737  cd assignment2_git/
+:[K[K [KESCESC[KOO[KBB[K  738  clear
+:[K[K [KESCESC[KOO[KBB[K  739  git remote rm origin
+:[K[K [KESCESC[KOO[KBB[K  740  clear
+:[K[K [KESCESC[KOO[KBB[K  741  git remote add origin https://github.com/antikroy2002/BE623_lab_session_4
+:[K[K [KESCESC[KOO[KBB[K  742  git branch -M main
+:[K[K [KESCESC[KOO[KBB[K  743  git push -u origin main
+:[K[K [KESCESC[KOO[KBB[K  744  clear
+:[K[K [KESCESC[KOO[KBB[K  745  cd ..
+:[K[K [KESCESC[KOO[KBB[K  746  git clone https://github.com/antikroy2002/BE623_lab_session_4.git repo_clone
+:[K[K [KESCESC[KOO[KBB[K  747  cd repo_clone
+:[K[K [KESCESC[KOO[KBB[K  748  echo "New updates from clone" >> file_1.txt
+:[K[K [KESCESC[KOO[KBB[K  749  git add file_1.txt
+:[K[K [KESCESC[KOO[KBB[K  750  git commit -m "Update file_1.txt in second copy"
+:[K[K [KESCESC[KOO[KBB[K  751  git push origin main
+:[K[K [KESCESC[KOO[KBB[K  752  git branch 
+:[K[K [KESCESC[KOO[KBB[K  753  git branch -M main
+:[K[K [KESCESC[KOO[KBB[K  754  git push origin main
+:[K[K [KESCESC[KOO[KBB[K  755  git pull origin main --no-rebase
+:[K[K [KESCESC[KOO[KBB[K  756  git pull origin main --allow-unrelated-histories
+:[K[K [KESCESC[KOO[KBB[K  757  clear
+:[K[K [KESCESC[KOO[KBB[K  758  git branch
+:[K[K [KESCESC[KOO[KBB[K  759  git add file_1.txt
+:[K[K [KESCESC[KOO[KBB[K  760  git commit -m "Update file_1.txt in second copy"
+:[K[K [KESCESC[KOO[KBB[K  761  git push origin main 
+:[K[K [KESCESC[KOO[KBB[K  762  git branch -M master
+:[K[K [KESCESC[KOO[KBB[K  763  git branch 
+:[K[K [KESCESC[KOO[KBB[K  764  ls
+:[K[K [KESCESC[KOO[KBB[K  765  clear
+:[K[K [KESCESC[KOO[KBB[K  766  git add file_1.txt
+:[K[K [KESCESC[KOO[KBB[K  767  git commit -m "Update file_1.txt in second copy"
+:[K[K [KESCESC[KOO[KBB[K  768  git push origin master 
+:[K[K [KESCESC[KOO[KBB[K  769  clear
+:[K[K [KESCESC[KOO[KBB[K  770  cd ..
+:[K[K [KESCESC[KOO[KBB[K  771  rm repo_clone
+:[K[K [KESCESC[KOO[KBB[K  772  rm -rf repo_clone
+:[K[K [KESCESC[KOO[KBB[K  773  clearw
+:[K[K [KESCESC[KOO[KBB[K  774  clear
+:[K[K [KESCESC[KOO[KBB[K  775  git branch
+:[K[K [KESCESC[KOO[KBB[K  776  git switch main
+:[K[K [KESCESC[KOO[KBB[K  777  git checkout main
+:[K[K [KESCESC[KOO[KBB[K  778  git branch
+:[K[K [KESCESC[KOO[KBB[K  779  clear
+:[K[K [KESCESC[KOO[KBB[K  780  git add file_2.txt
+:[K[K [KESCESC[KOO[KBB[K  781  clear
+:[K[K [KESCESC[KOO[KCC[H[2J[H
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:[K[K [KESCESC[KOO[KCC[H[2J[H
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KAA[K[HM
+[26;1H[K:[K[K [KESCESC[KOO[KBB[K
+:[K[K [KESCESC[KOO[KBB[K
+:[K[K[?1l>[?1049l[23;0;0t[?2004h(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ history | less | head -10
+[?2004l  178  vi question_1.sh 
+  179  ./question_1.sh 
+  180  vi question_1.sh 
+  181  chmod +x question_1.sh 
+  182  ./question_1.sh 
+  183  vi question_1.sh 
+  184  bash -c question_1.sh 
+  185  vi question_1.sh 
+  186  ./question_1.sh 
+  187  vi question_1.sh 
+[?2004h(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ history | less | head -10[1P -10[1P -10[1P -10[1P -10t -10a -10i -10l -10
+[?2004l 1169  cd antik_results/
+ 1170  ls
+ 1171  git init
+ 1172  git remote add origin https://github.com/antikroy2002/BE623_Project_1_Group_9
+ 1173  echo "*.pdf">.gitignore
+ 1174  git add Project_1.ipynb antik_reults
+ 1175  cd ..
+ 1176  history | less
+ 1177  history | less | head -10
+ 1178  history | less | tail -10
+[?2004h(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ history | less | tail -10[K[K50
+[?2004l 1130  git add MT_CO3.fasta MT_CO3_cds.txt MT_CO3_protein.fasta MT_CO3_genome.gb Project_1.ipynb headers.txt README.md .gitignore
+ 1131  git commit -m "All necessary files added"
+ 1132  git push -u origin main
+ 1133  git branch
+ 1134  git pull --rebase origin main
+ 1135  git fetch
+ 1136  git branch
+ 1137  echo "*.pdf">.gitignore
+ 1138  git add MT_CO3.fasta MT_CO3_cds.txt MT_CO3_protein.fasta MT_CO3_genome.gb Project_1.ipynb headers.txt README.md .gitignore
+ 1139  git commit -m "All necessary files added"
+ 1140  git push -u origin main
+ 1141  git pull --rebase origin main
+ 1142  cd ..
+ 1143  cd mnt
+ 1144  cd d
+ 1145  cd Biocomputing/
+ 1146  cd project\ 1/
+ 1147  clear
+ 1148  conda env lits
+ 1149  conda env list
+ 1150  conda activate project_1_be623
+ 1151  clear
+ 1152  jupyter notebook
+ 1153  clear
+ 1154  git init
+ 1155  git ls
+ 1156  ls
+ 1157  cd subhi script
+ 1158  cd subhidata
+ 1159  ls
+ 1160  clear
+ 1161  cd ..
+ 1162  git init]
+ 1163  clear
+ 1164  git init
+ 1165  git remote add origin https://github.com/antikroy2002/BE623_Project_1_Group_9
+ 1166  mkdir antik_results
+ 1167  ls
+ 1168  mv MT_CO3.fasta MT_CO3_cds.txt MT_CO3_genome.gb MT_CO3_protein.fasta headers.txt antik_results
+ 1169  cd antik_results/
+ 1170  ls
+ 1171  git init
+ 1172  git remote add origin https://github.com/antikroy2002/BE623_Project_1_Group_9
+ 1173  echo "*.pdf">.gitignore
+ 1174  git add Project_1.ipynb antik_reults
+ 1175  cd ..
+ 1176  history | less
+ 1177  history | less | head -10
+ 1178  history | less | tail -10
+ 1179  history | less | tail -50
+[?2004h(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ git init
+[?2004lReinitialized existing Git repository in /mnt/d/Biocomputing/project 1/.git/
+[?2004h(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ git branch 
+[?2004l[?1h=  main[m[m
+* [32mmaster[m[m
+[K[?1l>[?2004h(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ git switch main
+[?2004lSwitched to branch 'main'
+[?2004h(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ git branhc[K[Kch
+[?2004l[?1h=* [32mmain[m[m
+  master[m[m
+[K[?1l>[?2004h(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ ls 
+[?2004l [0m[01;32mBE623_Project_1.pdf[0m   [01;32mheaders.txt[0m                           [01;32msequence.gb[0m                      [34;42m'subhi script'[0m
+ [01;32mREADME.md[0m             [01;32mmycprotein.fasta[0m                      [01;32msequence.gb:Zone.Identifier[0m       [34;42msubhidata[0m
+ [01;32mUntitled.ipynb[0m       [01;32m'sequence (4).fasta:Zone.Identifier'[0m   [01;32msequence1.fasta[0m                   [34;42msubhiresults[0m
+ [01;32mUntitled1.ipynb[0m      [01;32m'sequence (5).fasta:Zone.Identifier'[0m   [01;32msequencep.fasta[0m                   [01;32mtypescript[0m
+ [01;32menvironment.yml[0m       [01;32msequence.fasta[0m                        [01;32msequencep.fasta:Zone.Identifier[0m
+[?2004h(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ gti[K[Kit fsck --lost-found
+[?2004lChecking object directories: 100% (256/256)Checking object directories: 100% (256/256), done.
+dangling commit 1751766e8020e4677104f8e6aa2c53091903804e
+[?2004h(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ ls -al
+[?2004ltotal 504
+drwxrwxrwx 1 antik_roy antik_roy   4096 Sep 16 15:31  [0m[34;42m.[0m
+drwxrwxrwx 1 antik_roy antik_roy   4096 Sep 12 08:59  [34;42m..[0m
+drwxrwxrwx 1 antik_roy antik_roy   4096 Sep 16 15:41  [34;42m.git[0m
+-rwxrwxrwx 1 antik_roy antik_roy      6 Sep 16 14:58  [01;32m.gitignore[0m
+drwxrwxrwx 1 antik_roy antik_roy   4096 Sep 16 15:13  [34;42m.ipynb_checkpoints[0m
+-rwxrwxrwx 1 antik_roy antik_roy 391598 Sep 12 08:59  [01;32mBE623_Project_1.pdf[0m
+-rwxrwxrwx 1 antik_roy antik_roy   3377 Sep 16 15:29  [01;32mREADME.md[0m
+-rwxrwxrwx 1 antik_roy antik_roy   9242 Sep 16 14:58  [01;32mUntitled.ipynb[0m
+-rwxrwxrwx 1 antik_roy antik_roy    618 Sep 16 14:58  [01;32mUntitled1.ipynb[0m
+-rwxrwxrwx 1 antik_roy antik_roy    407 Sep 16 14:58  [01;32menvironment.yml[0m
+-rwxrwxrwx 1 antik_roy antik_roy    251 Sep 16 14:58  [01;32mheaders.txt[0m
+-rwxrwxrwx 1 antik_roy antik_roy    527 Sep 16 14:58  [01;32mmycprotein.fasta[0m
+-rwxrwxrwx 1 antik_roy antik_roy     25 Sep 16 14:58 [01;32m'sequence (4).fasta:Zone.Identifier'[0m
+-rwxrwxrwx 1 antik_roy antik_roy     25 Sep 16 14:58 [01;32m'sequence (5).fasta:Zone.Identifier'[0m
+-rwxrwxrwx 1 antik_roy antik_roy   3882 Sep 16 14:58  [01;32msequence.fasta[0m
+-rwxrwxrwx 1 antik_roy antik_roy  27767 Sep 16 14:58  [01;32msequence.gb[0m
+-rwxrwxrwx 1 antik_roy antik_roy     25 Sep 16 14:58  [01;32msequence.gb:Zone.Identifier[0m
+-rwxrwxrwx 1 antik_roy antik_roy   3776 Sep 16 14:58  [01;32msequence1.fasta[0m
+-rwxrwxrwx 1 antik_roy antik_roy   3882 Sep 16 14:58  [01;32msequencep.fasta[0m
+-rwxrwxrwx 1 antik_roy antik_roy     25 Sep 16 14:58  [01;32msequencep.fasta:Zone.Identifier[0m
+drwxrwxrwx 1 antik_roy antik_roy   4096 Sep 16 14:58 [34;42m'subhi script'[0m
+drwxrwxrwx 1 antik_roy antik_roy   4096 Sep 16 14:58  [34;42msubhidata[0m
+drwxrwxrwx 1 antik_roy antik_roy   4096 Sep 16 14:58  [34;42msubhiresults[0m
+-rwxrwxrwx 1 antik_roy antik_roy  61440 Sep 16 15:38  [01;32mtypescript[0m
+[?2004h(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ cd .git/
+[?2004l[?2004h(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1/.git[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1/.git[00m$ ls -al
+[?2004ltotal 8
+drwxrwxrwx 1 antik_roy antik_roy 4096 Sep 16 15:41 [0m[34;42m.[0m
+drwxrwxrwx 1 antik_roy antik_roy 4096 Sep 16 15:31 [34;42m..[0m
+-rwxrwxrwx 1 antik_roy antik_roy   22 Sep 16 14:43 [01;32mCOMMIT_EDITMSG[0m
+-rwxrwxrwx 1 antik_roy antik_roy  115 Sep 16 14:59 [01;32mFETCH_HEAD[0m
+-rwxrwxrwx 1 antik_roy antik_roy   21 Sep 16 15:38 [01;32mHEAD[0m
+-rwxrwxrwx 1 antik_roy antik_roy   41 Sep 16 14:59 [01;32mORIG_HEAD[0m
+drwxrwxrwx 1 antik_roy antik_roy 4096 Sep 16 14:36 [34;42mbranches[0m
+-rwxrwxrwx 1 antik_roy antik_roy  238 Sep 16 15:36 [01;32mconfig[0m
+-rwxrwxrwx 1 antik_roy antik_roy   73 Sep 16 14:36 [01;32mdescription[0m
+drwxrwxrwx 1 antik_roy antik_roy 4096 Sep 16 14:36 [34;42mhooks[0m
+-rwxrwxrwx 1 antik_roy antik_roy 6355 Sep 16 15:38 [01;32mindex[0m
+drwxrwxrwx 1 antik_roy antik_roy 4096 Sep 16 14:36 [34;42minfo[0m
+drwxrwxrwx 1 antik_roy antik_roy 4096 Sep 16 14:43 [34;42mlogs[0m
+drwxrwxrwx 1 antik_roy antik_roy 4096 Sep 16 15:41 [34;42mlost-found[0m
+drwxrwxrwx 1 antik_roy antik_roy 4096 Sep 16 14:59 [34;42mobjects[0m
+drwxrwxrwx 1 antik_roy antik_roy 4096 Sep 16 14:58 [34;42mrefs[0m
+[?2004h(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1/.git[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1/.git[00m$ cd lost-found/
+[?2004l[?2004h(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1/.git/lost-found[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1/.git/lost-found[00m$ ls -al
+[?2004ltotal 0
+drwxrwxrwx 1 antik_roy antik_roy 4096 Sep 16 15:41 [0m[34;42m.[0m
+drwxrwxrwx 1 antik_roy antik_roy 4096 Sep 16 15:41 [34;42m..[0m
+drwxrwxrwx 1 antik_roy antik_roy 4096 Sep 16 15:41 [34;42mcommit[0m
+[?2004h(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1/.git/lost-found[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1/.git/lost-found[00m$ less commit/
+[?2004lcommit/ is a directory
+[?2004h(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1/.git/lost-found[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1/.git/lost-found[00m$ cd commit/
+[?2004l[?2004h(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1/.git/lost-found/commit[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1/.git/lost-found/commit[00m$ ls -al
+[?2004ltotal 0
+drwxrwxrwx 1 antik_roy antik_roy 4096 Sep 16 15:41 [0m[34;42m.[0m
+drwxrwxrwx 1 antik_roy antik_roy 4096 Sep 16 15:41 [34;42m..[0m
+-rwxrwxrwx 1 antik_roy antik_roy   41 Sep 16 15:41 [01;32m1751766e8020e4677104f8e6aa2c53091903804e[0m
+[?2004h(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1/.git/lost-found/commit[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1/.git/lost-found/commit[00m$ 1`[K7[K[Kless `^C[?2004l[?2004h[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C^C[?2004l[?2004h[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C^C[?2004l[?2004h[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C^C[?2004l[?2004h[K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1/.git/lost-found/commit[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1/.git/lost-found/commit[00m$ less `[?2004l
+[?2004h(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1/.git/lost-found/commit[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1/.git/lost-found/commit[00m$ [K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1/.git/lost-found/commit[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1/.git/lost-found/commit[00m$ [K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1/.git/lost-found/commit[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1/.git/lost-found/commit[00m$ [K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1/.git/lost-found/commit[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1/.git/lost-found/commit[00m$ [K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1/.git/lost-found/commit[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1/.git/lost-found/commit[00m$ [K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1/.git/lost-found/commit[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1/.git/lost-found/commit[00m$ [K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1/.git/lost-found/commit[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1/.git/lost-found/commit[00m$ [K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1/.git/lost-found/commit[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1/.git/lost-found/commit[00m$ [K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1/.git/lost-found/commit[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1/.git/lost-found/commit[00m$ [K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1/.git/lost-found/commit[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1/.git/lost-found/commit[00m$ [K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1/.git/lost-found/commit[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1/.git/lost-found/commit[00m$ ^C[?2004l[?2004h[?2004l
+[?2004h(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1/.git/lost-found/commit[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1/.git/lost-found/commit[00m$ [K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1/.git/lost-found/commit[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1/.git/lost-found/commit[00m$ [K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1/.git/lost-found/commit[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1/.git/lost-found/commit[00m$ [K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1/.git/lost-found/commit[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1/.git/lost-found/commit[00m$ [K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1/.git/lost-found/commit[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1/.git/lost-found/commit[00m$ [K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1/.git/lost-found/commit[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1/.git/lost-found/commit[00m$ [K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1/.git/lost-found/commit[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1/.git/lost-found/commit[00m$ [K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1/.git/lost-found/commit[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1/.git/lost-found/commit[00m$ [K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1/.git/lost-found/commit[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1/.git/lost-found/commit[00m$ [K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1/.git/lost-found/commit[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1/.git/lost-found/commit[00m$ [K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1/.git/lost-found/commit[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1/.git/lost-found/commit[00m$ less 1751766e8020e4677104f8e6aa2c53091903804e 
+[?2004l[?1049h[22;0;0t[?1h=1751766e8020e4677104f8e6aa2c53091903804e
+[7m1751766e8020e4677104f8e6aa2c53091903804e (END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+1751766e8020e4677104f8e6aa2c53091903804e
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K[?1l>[?1049l[23;0;0t[?2004h(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1/.git/lost-found/commit[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1/.git/lost-found/commit[00m$ cd ../../..\[K
+[?2004l[?2004h(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ git show 1`[K[K[K[K[K[K[K[K[K[K[Kcd .git/lost-found/commit/
+[?2004l[?2004h(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1/.git/lost-found/commit[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1/.git/lost-found/commit[00m$ git show 1751766e8020e4677104f8e6aa2c53091903804e
+[?2004l[?1h=[33mcommit 1751766e8020e4677104f8e6aa2c53091903804e[m[m
+Merge: dc42f86 3248155 5b20156[m
+Author: antik_roy <antik.roy2002@gmail.com>[m
+Date:   Wed Sep 16 14:57:12 2026 +0000[m
+[m
+    WIP on main: dc42f86 Necessary files added[m
+[m
+[K[?1l>[?2004h(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1/.git/lost-found/commit[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1/.git/lost-found/commit[00m$ git branch recovery-branch 1751766e8020e4677104f8e6aa2c53091903804e
+[?2004l[?2004h(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1/.git/lost-found/commit[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1/.git/lost-found/commit[00m$ git switch recovery-branch 
+[?2004lfatal: this operation must be run in a work tree
+[?2004h(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1/.git/lost-found/commit[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1/.git/lost-found/commit[00m$ cd ../../..
+[?2004l[?2004h(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ cd ../../..git switch recovery-branch 
+[?2004lSwitched to branch 'recovery-branch'
+[?2004h(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ ls -al
+[?2004ltotal 520
+drwxrwxrwx 1 antik_roy antik_roy   4096 Sep 16 15:45 [0m[34;42m.[0m
+drwxrwxrwx 1 antik_roy antik_roy   4096 Sep 12 08:59 [34;42m..[0m
+drwxrwxrwx 1 antik_roy antik_roy   4096 Sep 16 15:45 [34;42m.git[0m
+-rwxrwxrwx 1 antik_roy antik_roy      6 Sep 16 14:58 [01;32m.gitignore[0m
+drwxrwxrwx 1 antik_roy antik_roy   4096 Sep 16 15:45 [34;42m.ipynb_checkpoints[0m
+-rwxrwxrwx 1 antik_roy antik_roy 391598 Sep 12 08:59 [01;32mBE623_Project_1.pdf[0m
+-rwxrwxrwx 1 antik_roy antik_roy   6604 Sep 16 15:45 [01;32mProject_1.ipynb[0m
+-rwxrwxrwx 1 antik_roy antik_roy     24 Sep 16 15:45 [01;32mREADME.md[0m
+drwxrwxrwx 1 antik_roy antik_roy   4096 Sep 16 15:45 [34;42mantik_results[0m
+-rwxrwxrwx 1 antik_roy antik_roy  73728 Sep 16 15:43 [01;32mtypescript[0m
+[?2004h(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ jupyter notebook
+[?2004lCommand 'jupyter' not found, but can be installed with:
+sudo apt install jupyter-core
+[?2004h(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ conda list
+[?2004l# packages in environment at /home/antik_roy/miniconda3:
+#
+# Name                      Version          Build               Channel
+_libgcc_mutex               0.1              main
+_openmp_mutex               5.1              52_gnu
+anaconda-anon-usage         0.8.1            pyhb46e38b_100
+anaconda-auth               0.15.2           py314h06a4308_0
+anaconda-channel-guide      0.2.0            py314h06a4308_0
+anaconda-cli-base           0.9.1            py314h06a4308_0
+annotated-doc               0.0.5            py314h06a4308_0
+annotated-types             0.7.0            py314h06a4308_0
+anyio                       4.12.1           py314h06a4308_0
+archspec                    0.2.6            py314h06a4308_0
+boltons                     25.0.0           py314h06a4308_0
+brotlicffi                  1.2.0.1          py314h7354ed3_0
+bzip2                       1.0.8            h5eee18b_6
+c-ares                      1.34.7           hd44998d_0
+ca-certificates             2026.8.13        h06a4308_0
+certifi                     2026.7.22        py314h06a4308_0
+cffi                        2.1.1            py314h3b52fac_0
+charset-normalizer          3.4.7            py314h06a4308_0
+click                       8.4.1            py314h06a4308_0
+conda                       26.7.1           py314h06a4308_0
+conda-anaconda-telemetry    0.3.0            pyhd3eb1b0_1
+conda-anaconda-tos          0.2.2            py314h06a4308_1
+conda-content-trust         0.3.2            py314h06a4308_0
+conda-index                 0.12.1           py314h06a4308_0
+conda-libmamba-solver       26.7.0           pyh3785b3c_0
+conda-lockfiles             0.2.1            py314h06a4308_0
+conda-package-handling      2.5.0            py314h06a4308_0
+conda-package-streaming     0.13.0           py314h06a4308_0
+conda-pypi                  0.11.0           py314h06a4308_0
+conda-rattler-solver        0.1.1            py314h06a4308_0
+conda-self                  0.2.1            py314h06a4308_0
+cpp-expected                1.1.0            hdb19cb5_0
+cryptography                50.0.0           py314hef7b95b_0
+dbus                        1.16.2           h5bd4931_0
+distro                      1.9.0            py314h06a4308_0
+expat                       2.8.2            h7354ed3_1
+filelock                    3.29.4           py314h06a4308_1
+fmt                         12.1.0           h44f220b_0
+frozendict                  2.4.7            py314h47b2149_0
+gettext                     0.25.1           hd8bbc44_2
+gettext-tools               0.25.1           hc68a75d_2
+h11                         0.16.0           py314h06a4308_1
+httpcore                    1.0.9            py314h06a4308_0
+httpx                       0.28.1           py314h06a4308_1
+icu                         78.3             h53478e7_1
+idna                        3.18             py314h06a4308_0
+jansson                     2.15.0           hbcba0ee_0
+jaraco.classes              3.4.0            py314h06a4308_0
+jaraco.context              6.1.0            py314h06a4308_0
+jaraco.functools            4.4.0            py314h06a4308_0
+jeepney                     0.7.1            pyhd3eb1b0_0
+jinja2                      3.1.6            py314h06a4308_1
+keyring                     25.7.0           py314h06a4308_0
+ld_impl_linux-64            2.44             h9e0c5a2_3
+libarchive                  3.8.8            h54a5bc8_1
+libasprintf                 0.25.1           ha6c9436_2
+libasprintf-devel           0.25.1           ha6c9436_2
+libbrotlicommon             1.2.0            h32cd6e7_0
+libbrotlidec                1.2.0            ha2c5f68_0
+libbrotlienc                1.2.0            h2e96acb_0
+libcurl                     8.21.0           hd8fa685_0
+libev                       4.33             h7f8727e_1
+libexpat                    2.8.2            h7354ed3_1
+libffi                      3.4.8            h06d3fd0_3
+libgcc                      15.2.0           h69a1729_8
+libgcc-ng                   15.2.0           h166f726_8
+libgettextpo                0.25.1           h64fc44f_2
+libgettextpo-devel          0.25.1           h64fc44f_2
+libiconv                    1.18             h75a1612_0
+libidn2                     2.3.8            hf80d704_0
+libkrb5                     1.22.2           hbd13c29_0
+libmamba                    2.3.2            he97f470_3
+libmambapy                  2.3.2            py314heb26620_3
+libmpdec                    4.0.1            h47b2149_0
+libnghttp2                  1.69.0           h8214106_1
+libsolv                     0.7.39           h04d0c11_0
+libssh2                     1.11.1           hfbabe93_1
+libstdcxx                   15.2.0           h39759b7_8
+libstdcxx-ng                15.2.0           hc03a8fd_8
+libunistring                1.4.2            h34b0ebb_0
+libuuid                     1.41.5           h5eee18b_0
+libxcb                      1.17.0           h9b100fa_0
+libxml2                     2.15.3           he45aeb6_0
+libzlib                     1.3.2            h47b2149_0
+lmdb                        1.0.0            hfe55579_0
+lz4-c                       1.9.4            h7354ed3_5
+markdown-it-py              4.2.0            py314h06a4308_0
+markupsafe                  3.0.3            py314h47b2149_0
+mdurl                       0.1.2            py314h06a4308_0
+menuinst                    2.5.2            py314h06a4308_0
+more-itertools              11.0.2           py314h06a4308_0
+msgpack-python              1.2.1            py314h7354ed3_0
+ncurses                     6.6              hfaaeb4e_0
+nlohmann_json               3.11.2           h6a678d5_0
+openssl                     3.5.7            h1b28b03_0
+packaging                   26.3             py314h06a4308_0
+pcre2                       10.46            hf426167_0
+pip                         26.2.1           pyh0d26453_0
+pkce                        1.0.3            py314h06a4308_0
+platformdirs                4.11.0           py314h06a4308_0
+pluggy                      1.6.0            py314h06a4308_0
+pthread-stubs               0.3              h47b2149_2
+py-rattler                  0.25.0           py314hef7b95b_0
+pybind11-abi                5                hd3eb1b0_0
+pycosat                     0.6.6            py314h5eee18b_2
+pycparser                   3.0              py314h06a4308_0
+pydantic                    2.13.4           py314h06a4308_0
+pydantic-core               2.46.4           py314h6e1b9ff_0
+pydantic-settings           2.14.2           py314h06a4308_0
+pygments                    2.20.0           py314h06a4308_0
+pyjwt                       2.13.0           py314h06a4308_0
+pyproject_hooks             1.2.0            py314h06a4308_1
+pysocks                     1.7.1            py314h06a4308_1
+python                      3.14.7           h2bd7c14_101_cp314
+python-build                1.5.1            py314h06a4308_0
+python-dotenv               1.2.2            py314h06a4308_0
+python-installer            1.0.1            py314h06a4308_0
+python_abi                  3.14             4_cp314
+readchar                    4.2.2            py314h06a4308_0
+readline                    8.3              hc2a1206_0
+reproc                      14.2.7           h7bdf020_0
+reproc-cpp                  14.2.7           h7bdf020_0
+requests                    2.34.2           py314h06a4308_0
+rich                        15.0.0           py314h06a4308_0
+ruamel.yaml                 0.18.16          py314h4aee224_0
+ruamel.yaml.clib            0.2.14           py314h4aee224_0
+secretstorage               3.5.0            py314h3e8c6aa_0
+semver                      3.0.4            py314h06a4308_0
+setuptools                  83.0.0           py314h06a4308_0
+shellingham                 1.5.4            py314h06a4308_0
+simdjson                    3.10.1           hdb19cb5_0
+sqlite                      3.53.2           h795bf6d_0
+tk                          9.0.4            h3840b71_1
+tomli                       2.4.0            py314h06a4308_0
+tomli-w                     1.2.0            pyhd3eb1b0_0
+tomlkit                     0.15.1           py314h06a4308_0
+tqdm                        4.70.0           py314h6fa48dc_0
+truststore                  0.10.4           py314h06a4308_0
+typer                       0.25.1           py314h06a4308_0
+typing-extensions           4.16.0           py314h06a4308_0
+typing-inspection           0.4.3            py314h06a4308_0
+typing_extensions           4.16.0           py314h06a4308_0
+tzdata                      2026c            he532380_0
+unearth                     0.18.2           py314h06a4308_0
+urllib3                     2.7.0            py314h06a4308_0
+wheel                       0.47.0           py314h06a4308_0
+xorg-libx11                 1.8.13           h65de747_0
+xorg-libxau                 1.0.12           h9b100fa_0
+xorg-libxdmcp               1.1.5            h9b100fa_0
+xorg-xorgproto              2025.1           h47b2149_0
+xz                          5.8.2            h448239c_0
+yaml-cpp                    0.9.0            he852c71_1
+zlib                        1.3.2            h47b2149_0
+zstandard                   0.25.0           py314h89db63a_0
+zstd                        1.5.7            h11fc155_0
+[?2004h(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ conda install[K[K[K[K[K[K[K[K[K[K[K[K[Kjupyter --versiob
+[?2004lCommand 'jupyter' not found, but can be installed with:
+sudo apt install jupyter-core
+[?2004h(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ jupyter --versiob\[K[Kn
+[?2004lCommand 'jupyter' not found, but can be installed with:
+sudo apt install jupyter-core
+[?2004h(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ git init
+[?2004lReinitialized existing Git repository in /mnt/d/Biocomputing/project 1/.git/
+[?2004h(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ git branch
+[?2004l[?1h=  main[m[m
+  master[m[m
+* [32mrecovery-branch[m[m
+[K[?1l>[?2004h(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ git add[K[K[K[K[K[K[Kgit clone[K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ git clone[K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ git clone[K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ git clone[K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ git clone[K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ git clone[K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ git clone[K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ git clone[K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ git clone[K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ git clone[K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ git clone[K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ git clone[K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ git clone[K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ git clone[K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ git clone[K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ git clone[K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ git clone[K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ git clone[K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ git clone[K(base) ]0;antik_roy@LAPTOP-2D9NQGUU: /mnt/d/Biocomputing/project 1[01;32mantik_roy@LAPTOP-2D9NQGUU[00m:[01;34m/mnt/d/Biocomputing/project 1[00m$ git clone [7mhttps://github.com/antikroy2002/BE623_Project_1_Group_9[27mhttps://github.com/antikroy2002/BE623_Project_1_Group_9[C P roject_1_Group9_copy
+[?2004lCloning into 'Project_1_Group9_copy'...
+remote: Enumerating objects: 43, done.[K
+remote: Counting objects:   2% (1/43)[Kremote: Counting objects:   4% (2/43)[Kremote: Counting objects:   6% (3/43)[Kremote: Counting objects:   9% (4/43)[Kremote: Counting objects:  11% (5/43)[Kremote: Counting objects:  13% (6/43)[Kremote: Counting objects:  16% (7/43)[Kremote: Counting objects:  18% (8/43)[Kremote: Counting objects:  20% (9/43)[Kremote: Counting objects:  23% (10/43)[Kremote: Counting objects:  25% (11/43)[Kremote: Counting objects:  27% (12/43)[Kremote: Counting objects:  30% (13/43)[Kremote: Counting objects:  32% (14/43)[Kremote: Counting objects:  34% (15/43)[Kremote: Counting objects:  37% (16/43)[Kremote: Counting objects:  39% (17/43)[Kremote: Counting objects:  41% (18/43)[Kremote: Counting objects:  44% (19/43)[Kremote: Counting objects:  46% (20/43)[Kremote: Counting objects:  48% (21/43)[Kremote: Counting objects:  51% (22/43)[Kremote: Counting objects:  53% (23/43)[Kremote: Counting objects:  55% (24/43)[Kremote: Counting objects:  58% (25/43)[Kremote: Counting objects:  60% (26/43)[Kremote: Counting objects:  62% (27/43)[Kremote: Counting objects:  65% (28/43)[Kremote: Counting objects:  67% (29/43)[Kremote: Counting objects:  69% (30/43)[Kremote: Counting objects:  72% (31/43)[Kremote: Counting objects:  74% (32/43)[Kremote: Counting objects:  76% (33/43)[Kremote: Counting objects:  79% (34/43)[Kremote: Counting objects:  81% (35/43)[Kremote: Counting objects:  83% (36/43)[Kremote: Counting objects:  86% (37/43)[Kremote: Counting objects:  88% (38/43)[Kremote: Counting objects:  90% (39/43)[Kremote: Counting objects:  93% (40/43)[Kremote: Counting objects:  95% (41/43)[Kremote: Counting objects:  97% (42/43)[Kremote: Counting objects: 100% (43/43)[Kremote: Counting objects: 100% (43/43), done.[K
+remote: Compressing objects:   3% (1/31)[Kremote: Compressing objects:   6% (2/31)[Kremote: Compressing objects:   9% (3/31)[Kremote: Compressing objects:  12% (4/31)[Kremote: Compressing objects:  16% (5/31)[Kremote: Compressing objects:  19% (6/31)[Kremote: Compressing objects:  22% (7/31)[Kremote: Compressing objects:  25% (8/31)[Kremote: Compressing objects:  29% (9/31)[Kremote: Compressing objects:  32% (10/31)[Kremote: Compressing objects:  35% (11/31)[Kremote: Compressing objects:  38% (12/31)[Kremote: Compressing objects:  41% (13/31)[Kremote: Compressing objects:  45% (14/31)[Kremote: Compressing objects:  48% (15/31)[Kremote: Compressing objects:  51% (16/31)[Kremote: Compressing objects:  54% (17/31)[Kremote: Compressing objects:  58% (18/31)[Kremote: Compressing objects:  61% (19/31)[Kremote: Compressing objects:  64% (20/31)[Kremote: Compressing objects:  67% (21/31)[Kremote: Compressing objects:  70% (22/31)[Kremote: Compressing objects:  74% (23/31)[Kremote: Compressing objects:  77% (24/31)[Kremote: Compressing objects:  80% (25/31)[Kremote: Compressing objects:  83% (26/31)[Kremote: Compressing objects:  87% (27/31)[Kremote: Compressing objects:  90% (28/31)[Kremote: Compressing objects:  93% (29/31)[Kremote: Compressing objects:  96% (30/31)[Kremote: Compressing objects: 100% (31/31)[Kremote: Compressing objects: 100% (31/31), done.[K
+remote: Total 43 (delta 17), reused 26 (delta 9), pack-reused 0 (from 0)[K
+Receiving objects:   2% (1/43)Receiving objects:   4% (2/43)Receiving objects:   6% (3/43)Receiving objects:   9% (4/43)Receiving objects:  11% (5/43)Receiving objects:  13% (6/43)Receiving objects:  16% (7/43)Receiving objects:  18% (8/43)Receiving objects:  20% (9/43)Receiving objects:  23% (10/43)Receiving objects:  25% (11/43)Receiving objects:  27% (12/43)Receiving objects:  30% (13/43)Receiving objects:  32% (14/43)Receiving objects:  34% (15/43)Receiving objects:  37% (16/43)Receiving objects:  39% (17/43)Receiving objects:  41% (18/43)Receiving objects:  44% (19/43)Receiving objects:  46% (20/43)Receiving objects:  48% (21/43)Receiving objects:  51% (22/43)Receiving objects:  53% (23/43)Receiving objects:  55% (24/43)Receiving objects:  58% (25/43)Receiving objects:  60% (26/43)Receiving objects:  62% (27/43)Receiving objects:  65% (28/43)Receiving objects:  67% (29/43)Receiving objects:  69% (30/43)Receiving objects:  72% (31/43)Receiving objects:  74% (32/43)Receiving objects:  76% (33/43)Receiving objects:  79% (34/43)Receiving objects:  81% (35/43)Receiving objects:  83% (36/43)Receiving objects:  86% (37/43)Receiving objects:  88% (38/43)Receiving objects:  90% (39/43)Receiving objects:  93% (40/43)Receiving objects:  95% (41/43)Receiving objects:  97% (42/43)Receiving objects: 100% (43/43)Receiving objects: 100% (43/43), 22.10 KiB | 526.00 KiB/s, done.
+Resolving deltas:   0% (0/17)Resolving deltas:   5% (1/17)Resolving deltas:  11% (2/17)Resolving deltas:  23% (4/17)Resolving deltas:  29% (5/17)Resolving deltas:  41% (7/17)Resolving deltas:  47% (8/17)Resolving deltas:  64% (11/17)Resolving deltas:  76% (13/17)Resolving deltas:  82% (14/17)Resolving deltas:  88% (15/17)Resolving deltas:  94% (16/17)Resolving deltas: 100% (17/17)Resolving deltas: 100% (17/17), done.
+Updating files:  68% (60/87)Updating files:  70% (61/87)Updating files:  71% (62/87)Updating files:  72% (63/87)Updating files:  73% (64/87)Updating files:  74% (65/87)Updating files:  75% (66/87)Updating files:  77% (67/87)Updating files:  78% (68/87)Updating files:  79% (69/87)Updating files:  80% (70/87)Updating files:  81% (71/87)Updating files:  82% (72/87)Updating files:  83% (73/87)Updating files:  85% (74/87)Updating files:  86% (75/87)Updating files:  87% (76/87)Updating files:  88% (77/87)Updating files:  89% (78/87)Updating files:  90% (79/87)Updating files:  91% (80/87)Updating files:  93% (81/87)Updating files:  94% (82/87)Updating files:  95% (83/87)Updating files:  96% (84/87)Updating files:  97% (85/87)Updating files:  98% (86/87)Updating files: 100% (87/87)Updating files: 100% (87/87), done.
+warning: the following paths have collided (e.g. case-sensitive paths
+on a case-insensitive filesystem) and only one from the same
+colliding group is in the working tree:
+
+  'subhi script/subhidata/mycprotein.fasta:Zone.Identifier'
+  'subhi script/subhidata/mycprotein.fastaZone.Identifier'
+  'subhi script/subhidata/sequence (4).fasta:Zone.Identifier'
+  'subhi script/subhidata/sequence (4).fasta:Zone.Identifier:Zone.Identifier'
+  'subhi script/subhidata/sequence (4).fasta:Zone.Identifier:Zone.Identifier:Zone.Identifier'
+  'subhi script/subhidata/sequence (4).fa
