@@ -1,0 +1,491 @@
+LOCUS       NM_002467               3721 bp    mRNA    linear   PRI 14-NOV-2025
+DEFINITION  Homo sapiens MYC proto-oncogene, bHLH transcription factor (MYC),
+            transcript variant 1, mRNA.
+ACCESSION   NM_002467 XM_001129632
+VERSION     NM_002467.6
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3721)
+  AUTHORS   Hu,F., Zhao,L., Wang,J., Li,X., Xue,Z., Ma,Y., Zheng,M., Chen,C.,
+            Tong,M., Guo,X., Li,H., Jin,H., Xie,Q., Zhang,X., Huang,C. and
+            Huang,H.
+  TITLE     TRIM40 interacts with ROCK1 directly and inhibits colorectal cancer
+            cell proliferation through the c-Myc/p21 axis
+  JOURNAL   Biochim Biophys Acta Mol Cell Res 1871 (8), 119855 (2024)
+   PUBMED   39357549
+  REMARK    GeneRIF: TRIM40 interacts with ROCK1 directly and inhibits
+            colorectal cancer cell proliferation through the c-Myc/p21 axis.
+REFERENCE   2  (bases 1 to 3721)
+  AUTHORS   Jiang,L., Qi,X., Lai,M., Zhou,J., Yuan,M., You,J., Liu,Q., Pan,J.,
+            Zhao,L., Ying,M., Ji,J., Li,K., Zhang,Y., Pan,W., He,Q., Yang,B.
+            and Cao,J.
+  TITLE     WDR20 prevents hepatocellular carcinoma senescence by orchestrating
+            the simultaneous USP12/46-mediated deubiquitination of c-Myc
+  JOURNAL   Proc Natl Acad Sci U S A 121 (44), e2407904121 (2024)
+   PUBMED   39432777
+  REMARK    GeneRIF: WDR20 prevents hepatocellular carcinoma senescence by
+            orchestrating the simultaneous USP12/46-mediated deubiquitination
+            of c-Myc.
+REFERENCE   3  (bases 1 to 3721)
+  AUTHORS   Zhai,W., Yang,W., Ge,J., Xiao,X., Wu,K., She,K., Zhou,Y., Kong,Y.,
+            Wu,L., Luo,S. and Pu,X.
+  TITLE     ADAMTS4 exacerbates lung cancer progression via regulating c-Myc
+            protein stability and activating MAPK signaling pathway
+  JOURNAL   Biol Direct 19 (1), 94 (2024)
+   PUBMED   39415271
+  REMARK    GeneRIF: ADAMTS4 exacerbates lung cancer progression via regulating
+            c-Myc protein stability and activating MAPK signaling pathway.
+REFERENCE   4  (bases 1 to 3721)
+  AUTHORS   Ma,Y., Shi,H. and Zheng,W.
+  TITLE     METTL3 Regulates the Translation of Oncogene Myc through m6A
+            Modification and Promotes the Occurrence and Development of
+            Cervical Cancer
+  JOURNAL   Discov Med 36 (188), 1902-1910 (2024)
+   PUBMED   39327253
+  REMARK    GeneRIF: METTL3 Regulates the Translation of Oncogene Myc through
+            m[6]A Modification and Promotes the Occurrence and Development of
+            Cervical Cancer.
+REFERENCE   5  (bases 1 to 3721)
+  AUTHORS   Chatterjee,S., Prashanth,P., Rawat,V. and Ghosh Roy,S.
+  TITLE     Regulation of lipid and serine metabolism by the oncogene c-Myc
+  JOURNAL   Int Rev Cell Mol Biol 389, 236-256 (2024)
+   PUBMED   39396848
+  REMARK    GeneRIF: Regulation of lipid and serine metabolism by the oncogene
+            c-Myc.
+            Review article
+REFERENCE   6  (bases 1 to 3721)
+  AUTHORS   Iijima,S., Teraoka,H., Date,T. and Tsukada,K.
+  TITLE     DNA-activated protein kinase in Raji Burkitt's lymphoma cells.
+            Phosphorylation of c-Myc oncoprotein
+  JOURNAL   Eur J Biochem 206 (2), 595-603 (1992)
+   PUBMED   1597196
+REFERENCE   7  (bases 1 to 3721)
+  AUTHORS   Astrin,S.M. and Laurence,J.
+  TITLE     Human immunodeficiency virus activates c-myc and Epstein-Barr virus
+            in human B lymphocytes
+  JOURNAL   Ann N Y Acad Sci 651, 422-432 (1992)
+   PUBMED   1318011
+REFERENCE   8  (bases 1 to 3721)
+  AUTHORS   Bernstein,P.L., Herrick,D.J., Prokipcak,R.D. and Ross,J.
+  TITLE     Control of c-myc mRNA half-life in vitro by a protein capable of
+            binding to a coding region stability determinant
+  JOURNAL   Genes Dev 6 (4), 642-654 (1992)
+   PUBMED   1559612
+REFERENCE   9  (bases 1 to 3721)
+  AUTHORS   Seth,A., Alvarez,E., Gupta,S. and Davis,R.J.
+  TITLE     A phosphorylation site located in the NH2-terminal domain of c-Myc
+            increases transactivation of gene expression
+  JOURNAL   J Biol Chem 266 (35), 23521-23524 (1991)
+   PUBMED   1748630
+REFERENCE   10 (bases 1 to 3721)
+  AUTHORS   Hann,S.R., King,M.W., Bentley,D.L., Anderson,C.W. and Eisenman,R.N.
+  TITLE     A non-AUG translational initiation in c-myc exon 1 generates an
+            N-terminally distinct protein whose synthesis is disrupted in
+            Burkitt's lymphomas
+  JOURNAL   Cell 52 (2), 185-195 (1988)
+   PUBMED   3277717
+  REMARK    GeneRIF: Alternative translation initiation from an upstream,
+            in-frame non-AUG (CUG) and a downstream AUG start site results in
+            the production of two isoforms with distinct N-termini.
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC103819.3.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            On Jan 11, 2019 this sequence version replaced NM_002467.5.
+            
+            Summary: This gene is a proto-oncogene and encodes a nuclear
+            phosphoprotein that plays a role in cell cycle progression,
+            apoptosis and cellular transformation. The encoded protein forms a
+            heterodimer with the related transcription factor MAX. This complex
+            binds to the E box DNA consensus sequence and regulates the
+            transcription of specific target genes. Amplification of this gene
+            is frequently observed in numerous human cancers. Translocations
+            involving this gene are associated with Burkitt lymphoma and
+            multiple myeloma in human patients. There is evidence to show that
+            translation initiates both from an upstream, in-frame non-AUG (CUG)
+            and a downstream AUG start site, resulting in the production of two
+            isoforms with distinct N-termini. [provided by RefSeq, Aug 2017].
+            
+            Sequence Note: The RefSeq transcript and protein were derived from
+            genomic sequence to make the sequence consistent with the reference
+            genome assembly. The genomic coordinates used for the transcript
+            record were based on alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR1803611.55018.1,
+                                           SRR7346977.1160260.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match       :: ENST00000621592.8/ ENSP00000478887.2
+            non-AUG initiation codon :: PMID: 3277717
+            RefSeq Select criteria   :: based on manual assertion,
+                                        conservation, expression, longest
+                                        protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-393               AC103819.3         87815-88207
+            394-1165            AC103819.3         89832-90603
+            1166-3721           AC103819.3         91980-94535
+FEATURES             Location/Qualifiers
+     source          1..3721
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="8"
+                     /map="8q24.21"
+     gene            1..3721
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="MYC proto-oncogene, bHLH transcription factor"
+                     /db_xref="GeneID:4609"
+                     /db_xref="HGNC:HGNC:7553"
+                     /db_xref="MIM:190080"
+     exon            1..393
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    358..360
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="upstream in-frame stop codon"
+     CDS             364..1728
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="isoform 1 is encoded by transcript variant 1;
+                     non-AUG (CUG) translation initiation codon; avian
+                     myelocytomatosis viral oncogene homolog; myc
+                     proto-oncogene protein; myc-related
+                     translation/localization regulatory factor; proto-oncogene
+                     c-Myc; transcription factor p64; class E basic
+                     helix-loop-helix protein 39; v-myc avian myelocytomatosis
+                     viral oncogene homolog; v-myc myelocytomatosis viral
+                     oncogene homolog"
+                     /codon_start=1
+                     /product="myc proto-oncogene protein isoform 1"
+                     /protein_id="NP_002458.2"
+                     /db_xref="CCDS:CCDS6359.2"
+                     /db_xref="GeneID:4609"
+                     /db_xref="HGNC:HGNC:7553"
+                     /db_xref="MIM:190080"
+                     /translation="MDFFRVVENQQPPATMPLNVSFTNRNYDLDYDSVQPYFYCDEEE
+                     NFYQQQQQSELQPPAPSEDIWKKFELLPTPPLSPSRRSGLCSPSYVAVTPFSLRGDND
+                     GGGGSFSTADQLEMVTELLGGDMVNQSFICDPDDETFIKNIIIQDCMWSGFSAAAKLV
+                     SEKLASYQAARKDSGSPNPARGHSVCSTSSLYLQDLSAAASECIDPSVVFPYPLNDSS
+                     SPKSCASQDSSAFSPSSDSLLSSTESSPQGSPEPLVLHEETPPTTSSDSEEEQEDEEE
+                     IDVVSVEKRQAPGKRSESGSPSAGGHSKPPHSPLVLKRCHVSTHQHNYAAPPSTRKDY
+                     PAAKRVKLDSVRVLRQISNNRKCTSPRSSDTEENVKRRTHNVLERQRRNELKRSFFAL
+                     RDQIPELENNEKAPKVVILKKATAYILSVQAEEQKLISEEDLLRKRREQLKHKLEQLR
+                     NSCA"
+     misc_feature    424..426
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:20068231,
+                     ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P01106.2); phosphorylation site"
+     misc_feature    430..432
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="Phosphothreonine, by RAF, in vitro.
+                     /evidence=ECO:0000269|PubMed:9315742; propagated from
+                     UniProtKB/Swiss-Prot (P01106.2); phosphorylation site"
+     misc_feature    580..582
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="O-linked (GlcNAc) threonine, alternate.
+                     /evidence=ECO:0000269|PubMed:7642555. /id=CAR_000033;
+                     propagated from UniProtKB/Swiss-Prot (P01106.2);
+                     glycosylation site"
+     misc_feature    580..582
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="Phosphothreonine, by GSK3, alternate.
+                     /evidence=ECO:0000269|PubMed:15103331,
+                     ECO:0000269|PubMed:17558397, ECO:0000269|PubMed:30158517,
+                     ECO:0000269|PubMed:8386367, ECO:0007744|PubMed:17081983,
+                     ECO:0007744|PubMed:18669648, ECO:0007744|PubMed:21406692,
+                     ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P01106.2); phosphorylation site"
+     misc_feature    592..594
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="Phosphoserine, by DYRK2, GSK3 and CDK2.
+                     /evidence=ECO:0000269|PubMed:15103331,
+                     ECO:0000269|PubMed:17558397, ECO:0000269|PubMed:19966300,
+                     ECO:0000269|PubMed:20713526, ECO:0000269|PubMed:22307329,
+                     ECO:0000269|PubMed:25438055, ECO:0000269|PubMed:25803737,
+                     ECO:0000269|PubMed:30158517, ECO:0000269|PubMed:8386367,
+                     ECO:0007744|PubMed:18669648, ECO:0007744|PubMed:21406692,
+                     ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P01106.2); phosphorylation site"
+     misc_feature    619..621
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000269|PubMed:30158517,
+                     ECO:0007744|PubMed:18669648, ECO:0007744|PubMed:23186163;
+                     propagated from UniProtKB/Swiss-Prot (P01106.2);
+                     phosphorylation site"
+     misc_feature    649..651
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000269|PubMed:30158517; propagated from
+                     UniProtKB/Swiss-Prot (P01106.2); phosphorylation site"
+     misc_feature    706..732
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="propagated from UniProtKB/Swiss-Prot (P01106.2);
+                     Region: 9aaTAD. /evidence=ECO:0000269|PubMed:34342803"
+     misc_feature    835..837
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="N6-acetyllysine, by PCAF, alternate.
+                     /evidence=ECO:0000269|PubMed:16126174; propagated from
+                     UniProtKB/Swiss-Prot (P01106.2); acetylation site"
+     misc_feature    850..852
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="N6-acetyllysine, alternate.
+                     /evidence=ECO:0007744|PubMed:19608861; propagated from
+                     UniProtKB/Swiss-Prot (P01106.2); acetylation site"
+     misc_feature    859..861
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000269|PubMed:30158517; propagated from
+                     UniProtKB/Swiss-Prot (P01106.2); phosphorylation site"
+     misc_feature    877..879
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="N6-acetyllysine, by PCAF.
+                     /evidence=ECO:0000269|PubMed:16126174; propagated from
+                     UniProtKB/Swiss-Prot (P01106.2); acetylation site"
+     misc_feature    883..885
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000269|PubMed:30158517; propagated from
+                     UniProtKB/Swiss-Prot (P01106.2); phosphorylation site"
+     misc_feature    889..891
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000269|PubMed:30158517,
+                     ECO:0007744|PubMed:20068231; propagated from
+                     UniProtKB/Swiss-Prot (P01106.2); phosphorylation site"
+     misc_feature    1018..1293
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="propagated from UniProtKB/Swiss-Prot (P01106.2);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    1231..1233
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="N6-acetyllysine, by PCAF.
+                     /evidence=ECO:0000269|PubMed:16126174; propagated from
+                     UniProtKB/Swiss-Prot (P01106.2); acetylation site"
+     misc_feature    1285..1287
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P01106.2); phosphorylation site"
+     misc_feature    1348..1350
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000269|PubMed:30158517; propagated from
+                     UniProtKB/Swiss-Prot (P01106.2); phosphorylation site"
+     misc_feature    1351..1353
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0000269|PubMed:30158517; propagated from
+                     UniProtKB/Swiss-Prot (P01106.2); phosphorylation site"
+     misc_feature    1357..1359
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="N6-acetyllysine, by PCAF.
+                     /evidence=ECO:0000269|PubMed:16126174; propagated from
+                     UniProtKB/Swiss-Prot (P01106.2); acetylation site"
+     misc_feature    1375..1377
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="N6-acetyllysine, by PCAF.
+                     /evidence=ECO:0000269|PubMed:16126174; propagated from
+                     UniProtKB/Swiss-Prot (P01106.2); acetylation site"
+     misc_feature    1393..1395
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="Phosphoserine, by PIM2, in vitro.
+                     /evidence=ECO:0000250|UniProtKB:P01108; propagated from
+                     UniProtKB/Swiss-Prot (P01106.2); phosphorylation site"
+     misc_feature    1438..1440
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000269|PubMed:30158517; propagated from
+                     UniProtKB/Swiss-Prot (P01106.2); phosphorylation site"
+     misc_feature    1447..1449
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000269|PubMed:30158517; propagated from
+                     UniProtKB/Swiss-Prot (P01106.2); phosphorylation site"
+     misc_feature    1450..1452
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000269|PubMed:30158517; propagated from
+                     UniProtKB/Swiss-Prot (P01106.2); phosphorylation site"
+     misc_feature    1468..1509
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="propagated from UniProtKB/Swiss-Prot (P01106.2);
+                     Region: Basic motif.
+                     /evidence=ECO:0000255|PROSITE-ProRule:PRU00981"
+     misc_feature    1471..1500
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="propagated from UniProtKB/Swiss-Prot (P01106.2);
+                     Region: UBR5-degron.
+                     /evidence=ECO:0000269|PubMed:37478862"
+     misc_feature    1510..1626
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="propagated from UniProtKB/Swiss-Prot (P01106.2);
+                     Region: Helix-loop-helix motif.
+                     /evidence=ECO:0000255|PROSITE-ProRule:PRU00981"
+     misc_feature    1519..1521
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="N6-acetyllysine, by PCAF.
+                     /evidence=ECO:0000269|PubMed:16126174; propagated from
+                     UniProtKB/Swiss-Prot (P01106.2); acetylation site"
+     misc_feature    1645..1710
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="propagated from UniProtKB/Swiss-Prot (P01106.2);
+                     Region: Leucine-zipper"
+     exon            394..1165
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1166..3721
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      2164..2169
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="hexamer: AATAAA"
+     regulatory      2180..2185
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="hexamer: AATATA"
+     polyA_site      2192
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="major polyA site"
+     polyA_site      2204
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="major polyA site"
+     regulatory      3398..3403
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="hexamer: AATAAA"
+     polyA_site      3418
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+     regulatory      3700..3705
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+                     /note="hexamer: AATAAA"
+     polyA_site      3721
+                     /gene="MYC"
+                     /gene_synonym="bHLHe39; c-Myc; MRTL; MYCC"
+ORIGIN      
+        1 aactcgctgt agtaattcca gcgagaggca gagggagcga gcgggcggcc ggctagggtg
+       61 gaagagccgg gcgagcagag ctgcgctgcg ggcgtcctgg gaagggagat ccggagcgaa
+      121 tagggggctt cgcctctggc ccagccctcc cgctgatccc ccagccagcg gtccgcaacc
+      181 cttgccgcat ccacgaaact ttgcccatag cagcgggcgg gcactttgca ctggaactta
+      241 caacacccga gcaaggacgc gactctcccg acgcggggag gctattctgc ccatttgggg
+      301 acacttcccc gccgctgcca ggacccgctt ctctgaaagg ctctccttgc agctgcttag
+      361 acgctggatt tttttcgggt agtggaaaac cagcagcctc ccgcgacgat gcccctcaac
+      421 gttagcttca ccaacaggaa ctatgacctc gactacgact cggtgcagcc gtatttctac
+      481 tgcgacgagg aggagaactt ctaccagcag cagcagcaga gcgagctgca gcccccggcg
+      541 cccagcgagg atatctggaa gaaattcgag ctgctgccca ccccgcccct gtcccctagc
+      601 cgccgctccg ggctctgctc gccctcctac gttgcggtca cacccttctc ccttcgggga
+      661 gacaacgacg gcggtggcgg gagcttctcc acggccgacc agctggagat ggtgaccgag
+      721 ctgctgggag gagacatggt gaaccagagt ttcatctgcg acccggacga cgagaccttc
+      781 atcaaaaaca tcatcatcca ggactgtatg tggagcggct tctcggccgc cgccaagctc
+      841 gtctcagaga agctggcctc ctaccaggct gcgcgcaaag acagcggcag cccgaacccc
+      901 gcccgcggcc acagcgtctg ctccacctcc agcttgtacc tgcaggatct gagcgccgcc
+      961 gcctcagagt gcatcgaccc ctcggtggtc ttcccctacc ctctcaacga cagcagctcg
+     1021 cccaagtcct gcgcctcgca agactccagc gccttctctc cgtcctcgga ttctctgctc
+     1081 tcctcgacgg agtcctcccc gcagggcagc cccgagcccc tggtgctcca tgaggagaca
+     1141 ccgcccacca ccagcagcga ctctgaggag gaacaagaag atgaggaaga aatcgatgtt
+     1201 gtttctgtgg aaaagaggca ggctcctggc aaaaggtcag agtctggatc accttctgct
+     1261 ggaggccaca gcaaacctcc tcacagccca ctggtcctca agaggtgcca cgtctccaca
+     1321 catcagcaca actacgcagc gcctccctcc actcggaagg actatcctgc tgccaagagg
+     1381 gtcaagttgg acagtgtcag agtcctgaga cagatcagca acaaccgaaa atgcaccagc
+     1441 cccaggtcct cggacaccga ggagaatgtc aagaggcgaa cacacaacgt cttggagcgc
+     1501 cagaggagga acgagctaaa acggagcttt tttgccctgc gtgaccagat cccggagttg
+     1561 gaaaacaatg aaaaggcccc caaggtagtt atccttaaaa aagccacagc atacatcctg
+     1621 tccgtccaag cagaggagca aaagctcatt tctgaagagg acttgttgcg gaaacgacga
+     1681 gaacagttga aacacaaact tgaacagcta cggaactctt gtgcgtaagg aaaagtaagg
+     1741 aaaacgattc cttctaacag aaatgtcctg agcaatcacc tatgaacttg tttcaaatgc
+     1801 atgatcaaat gcaacctcac aaccttggct gagtcttgag actgaaagat ttagccataa
+     1861 tgtaaactgc ctcaaattgg actttgggca taaaagaact tttttatgct taccatcttt
+     1921 tttttttctt taacagattt gtatttaaga attgttttta aaaaatttta agatttacac
+     1981 aatgtttctc tgtaaatatt gccattaaat gtaaataact ttaataaaac gtttatagca
+     2041 gttacacaga atttcaatcc tagtatatag tacctagtat tataggtact ataaacccta
+     2101 atttttttta tttaagtaca ttttgctttt taaagttgat ttttttctat tgtttttaga
+     2161 aaaaataaaa taactggcaa atatatcatt gagccaaatc ttaagttgtg aatgttttgt
+     2221 ttcgtttctt ccccctccca accaccacca tccctgtttg ttttcatcaa ttgccccttc
+     2281 agagggtggt cttaagaaag gcaagagttt tcctctgttg aaatgggtct gggggcctta
+     2341 aggtctttaa gttcttggag gttctaagat gcttcctgga gactatgata acagccagag
+     2401 ttgacagtta gaaggaatgg cagaaggcag gtgagaaggt gagaggtagg caaaggagat
+     2461 acaagaggtc aaaggtagca gttaagtaca caaagaggca taaggactgg ggagttggga
+     2521 ggaaggtgag gaagaaactc ctgttacttt agttaaccag tgccagtccc ctgctcactc
+     2581 caaacccagg aattctgccc agttgatggg gacacggtgg gaaccagctt ctgctgcctt
+     2641 cacaaccagg cgccagtcct gtccatgggt tatctcgcaa accccagagg atctctggga
+     2701 ggaatgctac tattaaccct atttcacaaa caaggaaata gaagagctca aagaggttat
+     2761 gtaacttatc tgtagccacg cagataatac aaagcagcaa tctggaccca ttctgttcaa
+     2821 aacacttaac ccttcgctat catgccttgg ttcatctggg tctaatgtgc tgagatcaag
+     2881 aaggtttagg acctaatgga cagactcaag tcataacaat gctaagctct atttgtgtcc
+     2941 caagcactcc taagcatttt atccctaact ctacatcaac cccatgaagg agatactgtt
+     3001 gatttcccca tattagaagt agagagggaa gctgaggcac acaaagactc atccacatgc
+     3061 ccaagattca ctgataggga aaagtggaag cgagatttga acccaggctg tttactccta
+     3121 acctgtccaa gccacctctc agacgacggt aggaatcagc tggctgcttg tgagtacagg
+     3181 agttacagtc cagtgggtta tgttttttaa gtctcaacat ctaagcctgg tcaggcatca
+     3241 gttccccttt ttttgtgatt tattttgttt ttattttgtt gttcattgtt taatttttcc
+     3301 ttttacaatg agaaggtcac catcttgact cctaccttag ccatttgttg aatcagactc
+     3361 atgacggctc ctgggaagaa gccagttcag atcataaaat aaaacatatt tattctttgt
+     3421 catgggagtc attattttag aaactacaaa ctctccttgc ttccatcctt ttttacatac
+     3481 tcatgacaca tgctcatcct gagtccttga aaaggtattt ttgaacatgt gtattaatta
+     3541 taagcctctg aaaacctatg gcccaaacca gaaatgatgt tgattatata ggtaaatgaa
+     3601 ggatgctatt gctgttctaa ttacctcatt gtctcagtct caaagtaggt cttcagctcc
+     3661 ctgtactttg ggattttaat ctaccaccac ccataaatca ataaataatt actttctttg
+     3721 a
+//
+
