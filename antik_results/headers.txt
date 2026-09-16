@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+>NM_002467.6 Homo sapiens MYC proto-oncogene, bHLH transcription factor (MYC), transcript variant 1, mRNA
+>NP_002458.2 myc proto-oncogene protein isoform 1 [Homo sapiens]
+LOCUS       NM_002467               3721 bp    mRNA    linear   PRI 14-NOV-2025
+=======
+MT_CO3.fasta:>NC_012920.1:9207-9990 Homo sapiens mitochondrion, complete genome
+MT_CO3_protein.fasta:>YP_003024032.1 cytochrome c oxidase subunit III (mitochondrion) [Homo sapiens]
+>>>>>>> a64659c (All necessary files added)

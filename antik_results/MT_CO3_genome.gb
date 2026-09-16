@@ -1,0 +1,137 @@
+LOCUS       NC_012920                784 bp    DNA     linear   PRI 03-APR-2023
+DEFINITION  Homo sapiens mitochondrion, complete genome.
+ACCESSION   NC_012920 REGION: 9207..9990
+VERSION     NC_012920.1
+DBLINK      BioProject: PRJNA927338
+KEYWORDS    RefSeq.
+SOURCE      mitochondrion Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 784)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-JUL-2009) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   2  (bases 1 to 784)
+  AUTHORS   Kogelnik,A.M. and Lott,M.T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-AUG-2006) Mitomap.org, Center for Molecular and
+            Mitochondrial Medicine and Genetics (MAMMAG) University of
+            California, University of California, Irvine, Irvine, CA
+            92697-3940, USA
+  REMARK    Sequence update by submitter
+REFERENCE   3  (bases 1 to 784)
+  AUTHORS   Kogelnik,A.M. and Lott,M.T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-APR-1997) Center for Molecular Medicine, Emory
+            University School of Medicine, 1462 Clifton Road, Suite 420,
+            Atlanta, GA 30322, USA
+  REMARK    sequence updated
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from J01415.
+            
+            On Jul 8, 2009 this sequence version replaced AC_000021.2.
+            This sequence is a corrected version of the HUMMTCG reference
+            sequence.  The original Cambridge reference sequence (CRS) is
+            preserved as GenBank J01415 gi:337188 [PMID:7219534].  Corrections
+            have been made and annotated per the re-sequencing of the original
+            material by Andrews et al [PMID:10508508].
+            
+            This Revised Cambridge Reference Sequence (rCRS) has eighteen
+            specific corrections or confirmations of the original 1981 sequence
+            of Anderson et al [PMID:7219534].  Seven nucleotides are confirmed
+            as rare polymorphisms, maintained as: 263A, 311C-315C, 750A, 1438A,
+            4769A, 8860A, and 15326A.  Eleven nucleotides are error
+            corrections: 3107del, 3423T, 4985A,  9559C, 11335C, 13702C, 14199T,
+            14272C, 14365C, 14368C, and 14766C. These 11 errors in  the
+            original Cambridge sequence were determined to be  either outright
+            sequencing errors (8 instances) or due to the presence of bovine
+            DNA (2 instances) or HeLa DNA (1 instance) mixed in with the
+            original human placental DNA [PMID:10508508].  HISTORICAL
+            NUCLEOTIDE NUMBERS ARE MAINTAINED by indicating 3107del as 'N'.
+            A summary table of the reanalysis data is available online at
+            http://www.mitomap.org/MITOMAP/CambridgeReanalysis
+            
+            L-strand is shown.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..784
+                     /organism="Homo sapiens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="caucasian"
+                     /db_xref="taxon:9606"
+                     /tissue_type="placenta"
+                     /geo_loc_name="United Kingdom: Great Britain"
+                     /note="this is the rCRS"
+     gene            <1
+                     /gene="ATP6"
+                     /gene_synonym="ATPase6; MTATP6"
+                     /nomenclature="Official Symbol: MT-ATP6 | Name:
+                     mitochondrially encoded ATP synthase 6 | Provided by:
+                     HGNC:HGNC:7414"
+                     /db_xref="GeneID:4508"
+                     /db_xref="HGNC:HGNC:7414"
+                     /db_xref="MIM:516060"
+     CDS             <1
+                     /gene="ATP6"
+                     /gene_synonym="ATPase6; MTATP6"
+                     /note="ATP synthase 6; ATPase subunit 6"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="ATP synthase F0 subunit 6"
+                     /protein_id="YP_003024031.1"
+                     /db_xref="GeneID:4508"
+                     /db_xref="HGNC:HGNC:7414"
+                     /db_xref="MIM:516060"
+                     /translation="MNENLFASFIAPTILGLPAAVLIILFPPLLIPTSKYLINNRLIT
+                     TQQWLIKLTSKQMMTMHNTKGRTWSLMLVSLIIFIATTNLLGLLPHSFTPTTQLSMNL
+                     AMAIPLWAGTVIMGFRSKIKNALAHFLPQGTPTPLIPMLVIIETISLLIQPMALAVRL
+                     TANITAGHLLMHLIGSATLAMSTINLPSTLIIFTILILLTILEIAVALIQAYVFTLLV
+                     SLYLHDNT"
+     gene            1..784
+                     /gene="COX3"
+                     /gene_synonym="COIII; MTCO3"
+                     /nomenclature="Official Symbol: MT-CO3 | Name:
+                     mitochondrially encoded cytochrome c oxidase III |
+                     Provided by: HGNC:HGNC:7422"
+                     /db_xref="GeneID:4514"
+                     /db_xref="HGNC:HGNC:7422"
+                     /db_xref="MIM:516050"
+     CDS             1..784
+                     /gene="COX3"
+                     /gene_synonym="COIII; MTCO3"
+                     /note="cytochrome c oxidase III; TAA stop codon is
+                     completed by the addition of 3' A residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:9990,aa:TERM)
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit III"
+                     /protein_id="YP_003024032.1"
+                     /db_xref="GeneID:4514"
+                     /db_xref="HGNC:HGNC:7422"
+                     /db_xref="MIM:516050"
+                     /translation="MTHQSHAYHMVKPSPWPLTGALSALLMTSGLAMWFHFHSMTLLM
+                     LGLLTNTLTMYQWWRDVTRESTYQGHHTPPVQKGLRYGMILFITSEVFFFAGFFWAFY
+                     HSSLAPTPQLGGHWPPTGITPLNPLEVPLLNTSVLLASGVSITWAHHSLMENNRNQMI
+                     QALLITILLGLYFTLLQASEYFESPFTISDGIYGSTFFVATGFHGLHVIIGSTFLTIC
+                     FIRQLMFHFTSKHHFGFEAAAWYWHFVDVVWLFLYVSIYWWGS"
+ORIGIN      
+        1 atgacccacc aatcacatgc ctatcatata gtaaaaccca gcccatgacc cctaacaggg
+       61 gccctctcag ccctcctaat gacctccggc ctagccatgt gatttcactt ccactccata
+      121 acgctcctca tactaggcct actaaccaac acactaacca tataccaatg atggcgcgat
+      181 gtaacacgag aaagcacata ccaaggccac cacacaccac ctgtccaaaa aggccttcga
+      241 tacgggataa tcctatttat tacctcagaa gtttttttct tcgcaggatt tttctgagcc
+      301 ttttaccact ccagcctagc ccctaccccc caattaggag ggcactggcc cccaacaggc
+      361 atcaccccgc taaatcccct agaagtccca ctcctaaaca catccgtatt actcgcatca
+      421 ggagtatcaa tcacctgagc tcaccatagt ctaatagaaa acaaccgaaa ccaaataatt
+      481 caagcactgc ttattacaat tttactgggt ctctatttta ccctcctaca agcctcagag
+      541 tacttcgagt ctcccttcac catttccgac ggcatctacg gctcaacatt ttttgtagcc
+      601 acaggcttcc acggacttca cgtcattatt ggctcaactt tcctcactat ctgcttcatc
+      661 cgccaactaa tatttcactt tacatccaaa catcactttg gcttcgaagc cgccgcctga
+      721 tactggcatt ttgtagatgt ggtttgacta tttctgtatg tctccatcta ttgatgaggg
+      781 tctt
+//
+
